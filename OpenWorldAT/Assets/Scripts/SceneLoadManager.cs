@@ -12,6 +12,6 @@ public class SceneLoadManager : MonoBehaviour
     private void Awake()
     {
         Instance = this;
-        Load("Player");
+        //Load("Player");
     }
 }

@@ -45,7 +45,7 @@ public class characterMovement : MonoBehaviour
         CalculateGround();
         DoMove();
         DoGravity();
-        DoJump();
+        //DoJump();
 
         controller.Move(velocity * Time.deltaTime);
 
@@ -74,10 +74,10 @@ public class characterMovement : MonoBehaviour
         {
             grounded = true;
 
-            if (anim.GetBool("Jump") == true)
-            {
-                anim.SetBool("Jump", false);
-            }
+            //if (anim.GetBool("Jump") == true)
+            //{
+            //    anim.SetBool("Jump", false);
+            //}
         }
         else
         {
@@ -97,12 +97,12 @@ public class characterMovement : MonoBehaviour
             Debug.Log("yes");
             Quaternion rot = Quaternion.LookRotation(intent);
             player.transform.rotation = Quaternion.Lerp(player.transform.rotation, rot, Time.deltaTime * turnSpeed);
-            anim.SetBool("Running", true);
+            //anim.SetBool("Running", true);
 
         }
         else
         {
-            anim.SetBool("Running", false);
+            //anim.SetBool("Running", false);
         }
 
         velocityXZ = velocity;
@@ -126,15 +126,15 @@ public class characterMovement : MonoBehaviour
         velocity.y = Mathf.Clamp(velocity.y, -10, 10);
     }
 
-    void DoJump()
-    {
-        if (grounded)
-        {
-            if (Input.GetButtonDown("Jump"))
-            {
-                velocity.y = jumpVel;
-                anim.SetBool("Jump", true);
-            }
-        }
-    }
+    //void DoJump()
+    //{
+    //    if (grounded)
+    //    {
+    //        if (Input.GetButtonDown("Jump"))
+    //        {
+    //            velocity.y = jumpVel;
+    //            anim.SetBool("Jump", true);
+    //        }
+    //    }
+    //}
 }
