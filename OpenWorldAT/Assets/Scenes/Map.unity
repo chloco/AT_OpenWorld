@@ -420,10 +420,17 @@ MonoBehaviour:
   noiseScale: 8.82
   autoUpdate: 1
   octaves: 4
-  seed: 21
+  seed: 217
   offset: {x: -9, y: 0.31}
-  persistance: 0.5
-  lacunarity: 1.83
+  persistance: 3
+  lacunarity: 1
+  regions:
+  - name: Water
+    height: 0.4
+    colour: {r: 0.1273585, g: 0.77487814, b: 1, a: 0}
+  - name: Land
+    height: 1
+    colour: {r: 0.46884513, g: 0.9433962, b: 0.27144888, a: 0}
 --- !u!4 &1950431394
 Transform:
   m_ObjectHideFlags: 0
