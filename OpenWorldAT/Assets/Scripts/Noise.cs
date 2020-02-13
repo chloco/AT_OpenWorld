@@ -52,7 +52,8 @@ public static class Noise
                 if(noiseHeight > maxNoiseHeight)
                 {
                     maxNoiseHeight = noiseHeight;
-                } else if(noiseHeight < minNoiseHeight){
+                }
+                else if(noiseHeight < minNoiseHeight){
                     minNoiseHeight = noiseHeight;
                 }
                 noiseMap[x, y] = noiseHeight;

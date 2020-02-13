@@ -1,6 +1,11 @@
 
 {
-  "Name": "Yumo",
-  "Level": 7,
-  "Stats":  [4,7]
+  "MapWidth":200, 
+  "MapHeight":200,
+  "Seed":5,
+  "NoiseScale":27.38,
+  "Octaves":4,
+  "Persistance":0.3,
+  "Lacunarity":2,
+  "Offset":[-10.4, 0.63]
 }
