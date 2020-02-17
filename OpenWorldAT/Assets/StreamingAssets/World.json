@@ -2,7 +2,7 @@
 {
   "MapWidth":200, 
   "MapHeight":200,
-  "Seed":5,
+  "Seed":2,
   "NoiseScale":27.38,
   "Octaves":4,
   "Persistance":0.3,

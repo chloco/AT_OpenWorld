@@ -64,3 +64,15 @@ public class MeshData
         return mesh;
     }
 }
+
+[System.Serializable]
+public class Chunk
+{
+
+    public Vector2[] uvs;
+    public int triangleIndex;
+    public Color[] meshColour;
+    public Vector2[] Offset;
+    public int size;
+
+}
