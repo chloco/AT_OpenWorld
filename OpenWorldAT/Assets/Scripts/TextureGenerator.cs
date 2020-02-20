@@ -28,8 +28,7 @@ public static class TextureGenerator
             }
         }
 
-        return TextureFromColourMap(colourMap, width, height);
-       
+        return TextureFromColourMap(colourMap, width, height);       
     }
- 
+
 }

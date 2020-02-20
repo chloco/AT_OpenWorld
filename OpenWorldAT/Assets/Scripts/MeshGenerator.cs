@@ -8,7 +8,7 @@ public static class MeshGenerator
     {
         int width = heightMap.GetLength(0);
         int height = heightMap.GetLength(1);
-
+        heightMultiplier = 25;
         //getting the centre of the screen
         float topLeftX = (width - 1) / -2f;
         float topLeftZ = (height - 1) / 2f;
@@ -19,7 +19,7 @@ public static class MeshGenerator
         {
             for (int x = 0; x < width; x++)
             {
-                meshData.vertices[vertexIndex] = new Vector3(topLeftX + x,heightCurve.Evaluate(heightMap[x, y]) * heightMultiplier, topLeftZ -  y);
+                meshData.vertices[vertexIndex] = new Vector3(topLeftX + x, heightMap[x, y] * heightMultiplier, topLeftZ -  y);
                 meshData.uvs[vertexIndex] = new Vector2(x / (float)width, y / (float)height);
                 if(x<width-1 && y< height - 1)
                 {
