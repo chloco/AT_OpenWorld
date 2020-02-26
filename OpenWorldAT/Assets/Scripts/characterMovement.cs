@@ -29,7 +29,7 @@ public class characterMovement : MonoBehaviour
     float turnSpeedHigh = 20;
 
     //GRAVITY
-    float grav = 10;
+    float grav = 30;
     bool grounded = false;
 
     // Use this for initialization

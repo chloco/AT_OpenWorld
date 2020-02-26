@@ -102,7 +102,6 @@ public class WorldData
         }
 
 
-        Debug.Log(regionColours[1].Colour);
 
         SaveTextureAsPNG(TextureGenerator.TextureFromHeightMap(noiseMap), "world.png");
 
