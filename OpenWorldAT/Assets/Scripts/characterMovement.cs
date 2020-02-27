@@ -94,7 +94,7 @@ public class characterMovement : MonoBehaviour
 
         if (input.magnitude > 0)
         {
-            Debug.Log("yes");
+            //Debug.Log("yes");
             Quaternion rot = Quaternion.LookRotation(intent);
             player.transform.rotation = Quaternion.Lerp(player.transform.rotation, rot, Time.deltaTime * turnSpeed);
             anim.SetBool("Running", true);

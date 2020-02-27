@@ -15,11 +15,11 @@ public class MapDisplay : MonoBehaviour
         textureRenderer.transform.localScale = new Vector3(texture.width, 1, texture.height);
     }
 
-    public void DrawMesh(MeshData meshData, Texture2D texture)
+    public void DrawMesh(Chunk chunkData, Texture2D texture)
     {
-        meshFilter.sharedMesh = meshData.CreateMesh();
+        meshFilter.sharedMesh = chunkData.CreateMesh();
         meshRenderer.sharedMaterial.mainTexture = texture;
         MeshCollider meshc = mesh.AddComponent(typeof(MeshCollider)) as MeshCollider;
-        meshc.sharedMesh = meshData.CreateMesh();
+        meshc.sharedMesh = chunkData.CreateMesh();
     }
 }

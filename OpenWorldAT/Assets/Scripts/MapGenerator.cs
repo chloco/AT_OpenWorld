@@ -123,7 +123,8 @@ public class WorldData
         //    }
         //}
         MapDisplay display = FindObjectOfType<MapDisplay>();
-        display.DrawMesh(MeshGenerator.GenerateTerrainMesh(noiseMap, meshHeightMultiplier, meshHeightCurve), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
+        MeshGenerator meshGenerator = new MeshGenerator();
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 3,2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
 
         if (drawMode == DrawMode.NoiseMap)
         {
@@ -135,7 +136,7 @@ public class WorldData
         }
         else if (drawMode == DrawMode.Mesh)
         {
-            display.DrawMesh(MeshGenerator.GenerateTerrainMesh(noiseMap, meshHeightMultiplier, meshHeightCurve), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
+            display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 3,2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
         }
     }
 
