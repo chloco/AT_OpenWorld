@@ -258,17 +258,17 @@ PrefabInstance:
     - target: {fileID: -4216859302048453862, guid: a3b8c34baab0fea4686fbd4f8797614f,
         type: 3}
       propertyPath: m_LocalPosition.x
-      value: 150
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: a3b8c34baab0fea4686fbd4f8797614f,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 251.59
+      value: 121.07
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: a3b8c34baab0fea4686fbd4f8797614f,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: -382
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: -4216859302048453862, guid: a3b8c34baab0fea4686fbd4f8797614f,
         type: 3}
@@ -342,7 +342,7 @@ MeshRenderer:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 840008730}
-  m_Enabled: 1
+  m_Enabled: 0
   m_CastShadows: 1
   m_ReceiveShadows: 1
   m_DynamicOccludee: 1
@@ -389,7 +389,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 840008730}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -35.970196, y: 82.62024, z: 36.59687}
+  m_LocalPosition: {x: 979, y: 82.62024, z: -989}
   m_LocalScale: {x: 10, y: 10, z: 10}
   m_Children: []
   m_Father: {fileID: 0}
@@ -908,9 +908,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 824771a1f30420442a6afe585c0a3f42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  textureRenderer: {fileID: 185325966}
-  meshFilter: {fileID: 840008732}
-  meshRenderer: {fileID: 840008731}
   mesh: {fileID: 840008730}
 --- !u!114 &1950431393
 MonoBehaviour:

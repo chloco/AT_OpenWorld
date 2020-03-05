@@ -28,6 +28,9 @@ public class MapGenerator : MonoBehaviour
     string jsonString;
     string jsonString2;
 
+    int playerIndexX;
+    int playerIndexY;
+
     [System.Serializable]
 public class WorldData
  {
@@ -122,21 +125,25 @@ public class WorldData
         //        }
         //    }
         //}
+        playerIndexX = 3;
+        playerIndexY = 2;
         MapDisplay display = FindObjectOfType<MapDisplay>();
         MeshGenerator meshGenerator = new MeshGenerator();
-        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 3,2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
-
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0,0), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 0 * (world.MapWidth + 50 / 4), 0 * (world.MapHeight- 50 / 4));
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 1), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 1 * (world.MapWidth + 50 / 4), 0 * (world.MapHeight - 50 / 4));
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 2 * (world.MapWidth + 50 / 4), 0 * (world.MapHeight - 50 / 4));
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 2 * (world.MapWidth+ 50 / 4), 1 * (world.MapHeight- 50 / 4));
         if (drawMode == DrawMode.NoiseMap)
         {
             display.DrawTexture(TextureGenerator.TextureFromHeightMap(noiseMap));
         }
         else if (drawMode == DrawMode.ColourMap)
         {
-            display.DrawTexture(TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
+            //display.DrawTexture(TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight)); 
         }
         else if (drawMode == DrawMode.Mesh)
         {
-            display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 3,2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight));
+            display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 3,2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), playerIndexX, playerIndexY);
         }
     }
 
