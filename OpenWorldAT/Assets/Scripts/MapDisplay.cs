@@ -15,11 +15,11 @@ public class MapDisplay : MonoBehaviour
         //textureRenderer.transform.localScale = new Vector3(texture.width, 1, texture.height);
     }
 
-    public void DrawMesh(Chunk chunkData, Texture2D texture, int indexX, int indexY)
+    public void DrawMesh(Chunk chunkData, Texture2D texture, int indexX, int indexZ, int indexY)
     {
         GameObject plane = new GameObject("plane");
         plane.transform.localScale = new Vector3(10, 10, 10);
-        plane.transform.position = mesh.transform.position + new Vector3(indexX, 0, indexY);
+        plane.transform.position = mesh.transform.position + new Vector3(indexX, indexZ, indexY);
 
         MeshFilter meshFilter = (MeshFilter)plane.AddComponent(typeof(MeshFilter));
         MeshRenderer meshRenderer = plane.AddComponent<MeshRenderer>();
