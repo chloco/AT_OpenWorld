@@ -18,8 +18,10 @@ public class MapDisplay : MonoBehaviour
     public void DrawMesh(Chunk chunkData, Texture2D texture, int indexX, int indexZ, int indexY)
     {
         GameObject plane = new GameObject("plane");
-        plane.transform.localScale = new Vector3(10, 10, 10);
-        plane.transform.position = mesh.transform.position + new Vector3(indexX, indexZ, indexY);
+        plane.transform.localScale = new Vector3(4, 4, 4);
+        //plane.transform.position = new Vector3(indexX, indexZ, indexY);
+
+        plane.transform.position += new Vector3(indexX, indexZ, indexY);
 
         MeshFilter meshFilter = (MeshFilter)plane.AddComponent(typeof(MeshFilter));
         MeshRenderer meshRenderer = plane.AddComponent<MeshRenderer>();
