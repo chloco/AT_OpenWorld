@@ -27,7 +27,7 @@ public class MapGenerator : MonoBehaviour
     string path2;
     string jsonString;
     string jsonString2;
-
+    public GameObject player;
     int playerIndexX;
     int playerIndexY;
 
@@ -45,6 +45,8 @@ public class WorldData
         //public TerrainType[] regions;
 
  }
+
+
     //public class colourRegions
     //{
     //    public TerrainType[] regions;
@@ -129,9 +131,9 @@ public class WorldData
         playerIndexY = 2;
         MapDisplay display = FindObjectOfType<MapDisplay>();
         MeshGenerator meshGenerator = new MeshGenerator();
-        int y_value = -4;
-        int x_value = 4;
-        int z_value = 2;
+        int y_value = -5;
+        int x_value = 6;
+        int z_value = -5;
         //display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 0), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 0, ((0 * (world.MapWidth / 4)) /*- (x_value * 0)*/), ((0 * (world.MapHeight / 4)) - (y_value * 0)));
         //display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 1), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 0, ((1 * (world.MapWidth / 4)) /*- (x_value * 1)*/), ((0 * (world.MapHeight / 4)) - (y_value * 2)));
         //display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 0, ((2 * (world.MapWidth / 4)) /*- (x_value * 2)*/), ((0 * (world.MapHeight / 4)) - (y_value * 3)));
@@ -147,14 +149,17 @@ public class WorldData
         //display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 3), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), 3 * world.MapWidth, ((0 * (world.MapHeight / 4)) - (y_value * 1)), 0);
 
 
+
+
         display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 0), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 0, 0, 0);
         display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 1), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 1, 0, 0);
         display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 2, 0, 0);
         display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 0, 3), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 3, 0, 0);
-        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 0), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 0, z_value, -y_value);
-        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 1), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 1, z_value, -y_value);
-        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 2, z_value, -y_value);
-        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 3), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 3, z_value, -y_value);
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 0), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 0, -z_value, -y_value);
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 1), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 1, -z_value, -y_value);
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 2), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 2, -z_value, -y_value);
+        display.DrawMesh(meshGenerator.GenerateTerrainChunk(noiseMap, 1, 3), TextureGenerator.TextureFromColourMap(colourMap, world.MapWidth, world.MapHeight), -x_value * 3, -z_value, -y_value);
+
 
         if (drawMode == DrawMode.NoiseMap)
         {
@@ -172,7 +177,6 @@ public class WorldData
     void Update()
     {
         
-
     }
     IEnumerator LoadTexture()
     {
