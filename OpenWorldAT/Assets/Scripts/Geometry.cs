@@ -6,7 +6,6 @@ public class Geometry : MonoBehaviour
 {
     public static Geometry instance;
     public float object_id;
-    public GameObject assetObject;
     public string assetName;
     public Vector3 objectPosition;
     public Vector3 objectRotation;
@@ -17,7 +16,6 @@ public class Geometry : MonoBehaviour
     void Start()
     {
         object_id = transform.position.sqrMagnitude;
-        assetObject = gameObject;
     }
 
     //private void Awake()
@@ -50,7 +48,6 @@ public class Geometry : MonoBehaviour
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log("DIE!!!!!!!!!!!!!!!!");
-            Destroy(assetObject);
         }
     }
 }

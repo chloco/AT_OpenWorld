@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3013339724
+CRC: 3375068049
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: ff14d59ef16a577a56cf944ec8ba0e3b
+    Hash: 9605e5b221e5f882af1cf8ac9b62045d
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 77942d977ccba6dee2f457fb683e7e4d
+    Hash: b774035b33efc28f82df0bcef24a2db0
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -33,23 +33,23 @@ ClassTypes:
   Script: {instanceID: 0}
 Assets:
 - Assets/Prefabs/Building3.prefab
-- Assets/Prefabs/Tree Type0 03.prefab
-- Assets/Prefabs/Tree Type0 04.prefab
+- Assets/Prefabs/TreeType003.prefab
+- Assets/Prefabs/TreeType004.prefab
 - Assets/Prefabs/Building1.prefab
 - Assets/Prefabs/Medieval_House.prefab
 - Assets/Prefabs/wooden_path.prefab
-- Assets/Prefabs/Tree Type2 03.prefab
-- Assets/Prefabs/Tree Type4 04 (1).prefab
-- Assets/Prefabs/Tree Type0 06.prefab
-- Assets/Prefabs/Tree Type6 04.prefab
+- Assets/Prefabs/TreeType203.prefab
+- Assets/Prefabs/TreeType40.prefab
+- Assets/Prefabs/TreeType006.prefab
+- Assets/Prefabs/TreeType604.prefab
 - Assets/Prefabs/multiple_rocks.prefab
 - Assets/Prefabs/Building2.prefab
-- Assets/Prefabs/Tree Type4 04.prefab
-- Assets/Prefabs/Tree Type0 05 1.prefab
+- Assets/Prefabs/TreeType404.prefab
+- Assets/Prefabs/TreeType0051.prefab
 - Assets/Prefabs/Rock1.prefab
-- Assets/Prefabs/Tree Type6 03.prefab
+- Assets/Prefabs/TreeType603.prefab
 - Assets/Prefabs/Building4.prefab
 - Assets/Prefabs/Building5.prefab
-- Assets/Prefabs/Tree Type0 05.prefab
-- Assets/Prefabs/Tree Type0 02.prefab
+- Assets/Prefabs/Tree_Type0_05.prefab
+- Assets/Prefabs/TreeType002.prefab
 Dependencies: []

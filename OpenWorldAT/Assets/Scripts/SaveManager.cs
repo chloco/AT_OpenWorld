@@ -4,10 +4,12 @@ using UnityEngine;
 using System.IO;
 using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine.UI;
+using Newtonsoft.Json;
+using System.Text.RegularExpressions;
 
 public class SaveManager : MonoBehaviour
 {
-    private GameObject gObject;
+    
     private Geometry the_cube;
     private LoadAssetBundles loadAsset;
     public static ClassCollector CC = new ClassCollector();
@@ -44,12 +46,11 @@ public class SaveManager : MonoBehaviour
 
 
         save.object_id = the_cube.object_id;
-        save.assetObject = the_cube.assetObject;
         save.objectPosition = the_cube.objectPosition;
         save.objectRotation = the_cube.objectRotation;
         save.objectScale = the_cube.objectScale;
         save.assetName = the_cube.assetName;
-        //CC.ObjectList.Add(save);
+        CC.ObjectList.Add(save);
 
         return save;
     }
@@ -66,27 +67,48 @@ public class SaveManager : MonoBehaviour
 
     public void SaveJSON()
     {
+
+   
+      
+        var geometry = FindObjectsOfType(typeof(Geometry));
+        Debug.Log(geometry + " : " + geometry.Length);
+        //Save[] save = new Save[geometry.Length];
         
-        the_cube = FindObjectOfType<Geometry>();
-        Save save = new Save();
+        foreach (Geometry obj in geometry)
+        {
+                 Save save = new Save();
 
+                save.object_id = obj.object_id;
+                save.objectPosition = obj.objectPosition;
+                save.objectRotation =obj.objectRotation;
+                save.objectScale = obj.objectScale;
+                save.assetName = obj.assetName;
 
-        save.object_id = the_cube.object_id;
-        save.assetObject = the_cube.assetObject;
-        save.objectPosition = the_cube.objectPosition;
-        save.objectRotation = the_cube.objectRotation;
-        save.objectScale = the_cube.objectScale;
-        save.assetName = the_cube.assetName;
-        CC.ObjectList.Add(save);
+                CC.ObjectList.Add(save);  
+            
+             
+        }
 
-        string Json_String = JsonUtility.ToJson(CC);
+        //the_cube = FindObjectOfType<Geometry>();
+
+        var jsonString = JsonConvert.SerializeObject(CC, Formatting.Indented);
+        //string Json_String = JsonUtility.ToJson(CC);
         StreamWriter sw = new StreamWriter(Application.dataPath + "/JSONData.text");
-        sw.Write(Json_String);
+        sw.Write(jsonString);
         sw.Close();
 
         Debug.Log("-=-=-=-SAVED-=-=-=-");
     }
+  
+    public class Item
+    {
+        public float object_id;
+        public string assetName;
+        public Vector3 objectPosition;
+        public Vector3 objectRotation;
+        public Vector3 objectScale;
 
+    }
     public void LoadJSON()
     {
         if (File.Exists(Application.dataPath + "/JSONData.text"))
@@ -95,25 +117,49 @@ public class SaveManager : MonoBehaviour
             StreamReader sr = new StreamReader(Application.dataPath + "/JSONData.text");
 
             string Json_String = sr.ReadToEnd();
+            Debug.Log(Json_String);
+            ClassCollector classCollector;
+            classCollector = JsonUtility.FromJson<ClassCollector>(Json_String);
 
+            
+
+            foreach(Save save in classCollector.ObjectList)
+            {
+                GameObject gameObj;
+               string str =  Regex.Replace(save.assetName, @"\([^)]*\)", "");
+                str = str.Replace(" ", "");
+                //if (save.assetName.Contains("(Clone)"))
+                //{
+                //    str = save.assetName.Replace("(Clone)", "");
+                //    gameObj = loadAsset.InstantiateObjectFromBundle2(str);
+                //}
+                //else
+                //{
+                gameObj = loadAsset.InstantiateObjectFromBundle2(str);
+                //}
+                
+                gameObj.transform.position = save.objectPosition;
+                gameObj.transform.eulerAngles = save.objectRotation;
+                gameObj.transform.localScale = save.objectScale;
+            }
+            //List<Item> items = JsonConvert.DeserializeObject<List<Item>>(Json_String);
+
+
+
+            //List<Save> save = JsonConvert.DeserializeObject<List<Save>>(Json_String);
             sr.Close();
 
             //Convert JSON to the Object(save)
-            Save save = JsonUtility.FromJson<Save>(Json_String);//Into the Save Object
-
+            /*List<Save> save = JsonUtility.FromJson<Save>(Json_String);//Into the Save Objec*/
+            
+            
             Debug.Log("-=-=-=-LOADED-=-=-=-=-");
 
             //gObject = loadAsset.InstantiateObjectFromBundle(save.assetName).gameObject;
-            
-            foreach (Save save in CC.ObjectList)
-            {
 
-            }
+           
+           //GameObject gObject;
 
-            gObject = loadAsset.InstantiateObjectFromBundle2(save.assetName);
-            gObject.transform.position = save.objectPosition;
-            gObject.transform.eulerAngles = save.objectRotation;
-            gObject.transform.localScale = save.objectScale;
             //MARKER LOAD THE DATA TO THE GAME
             //SaveGameManager.instance.something = save.something;
             ////SaveGameManager.instance.something_else = save.something_else;
