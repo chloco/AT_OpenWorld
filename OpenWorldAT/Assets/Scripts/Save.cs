@@ -3,26 +3,23 @@ using System.Collections.Generic;
 using UnityEngine;
 
  [System.Serializable]
-public class Save : MonoBehaviour
+public class ClassCollector
 {
-    public int id;
-    public Vector3 g_positions;
-    public float g_poisions_x;
-    public float g_poisions_y;
-    public GameObject g_object;
-    public float playerPositionX;
-    public float playerPositionY;
+    public List<Save> ObjectList = new List<Save>();
+}
+
+ [System.Serializable]
+public class Save
+{
+    public float object_id;
+    public GameObject assetObject;
+    public string assetName;
+    public Vector3 objectPosition;
+    public Vector3 objectRotation;
+    public Vector3 objectScale;
 
     // Start is called before the first frame update
 
-    void Start()
-    {
-        
-    }
 
-    // Update is called once per frame
-    void Update()
-    {
-        
-    }
+
 }

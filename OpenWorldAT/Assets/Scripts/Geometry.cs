@@ -5,48 +5,52 @@ using UnityEngine;
 public class Geometry : MonoBehaviour
 {
     public static Geometry instance;
-    public int cube_id;
-    public Vector3 cube_positions;
-    public GameObject cube;
+    public float object_id;
+    public GameObject assetObject;
+    public string assetName;
+    public Vector3 objectPosition;
+    public Vector3 objectRotation;
+    public Vector3 objectScale;
 
-    private float moveH, moveV;
 
-    [SerializeField] private float moveSpeed;
 
     void Start()
     {
-        cube_id = 1;
+        object_id = transform.position.sqrMagnitude;
+        assetObject = gameObject;
     }
 
-    private void Awake()
-    {
-        if (instance == null)
-        {
-            instance = this;
+    //private void Awake()
+    //{
+    //    if (instance == null)
+    //    {
+    //        instance = this;
 
-        }
-        else
-        {
-            if (instance != this)
-            {
-                Destroy(gameObject);
+    //    }
+    //    else
+    //    {
+    //        if (instance != this)
+    //        {
+    //            Destroy(gameObject);
 
-            }
-        }
+    //        }
+    //    }
 
-        DontDestroyOnLoad(gameObject);
-    }
+    //    DontDestroyOnLoad(gameObject);
+    //}
 
     void Update()
     {
-        cube_positions = this.gameObject.transform.position;
-
-        cube_positions = new Vector2(moveH, moveV);
+        assetName = this.gameObject.name;
+        objectPosition = this.gameObject.transform.position;
+        objectRotation = this.gameObject.transform.eulerAngles;
+        objectScale = this.gameObject.transform.localScale;
+        
 
         if (Input.GetKeyDown(KeyCode.Space))
         {
             Debug.Log("DIE!!!!!!!!!!!!!!!!");
-            Destroy(cube);
+            Destroy(assetObject);
         }
     }
 }

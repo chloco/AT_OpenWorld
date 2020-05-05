@@ -7,23 +7,16 @@ using UnityEngine.UI;
 
 public class SaveManager : MonoBehaviour
 {
-    //[System.Serializable]
-    //public class WorldData
-    //{
-    //    public int id;
-    //    public 
-    //    //public TerrainType[] regions;
-
-    //}
-
-    //public Bat batGameObject;
-
-    //public SavePos saveGameObject;
+    private GameObject gObject;
     private Geometry the_cube;
- 
+    private LoadAssetBundles loadAsset;
+    public static ClassCollector CC = new ClassCollector();
+
     void Start()
     {
-        the_cube = FindObjectOfType<Geometry>();
+        
+        loadAsset = GameObject.FindGameObjectWithTag("Karen").GetComponent<LoadAssetBundles>();
+       
     }
 
     // Update is called once per frame
@@ -45,25 +38,18 @@ public class SaveManager : MonoBehaviour
 
     private Save createSaveObject()
     {
+        
+        the_cube = FindObjectOfType<Geometry>();
         Save save = new Save();
 
-        //save.something = SaveGameManager.instance.something;
-        //save.something_else = SaveGameManager.instance.something_else;
-        //save.g_object = Save.instance.g_object;
 
-        ////save.coinsNum = SaveGameManager.instance.coins;
-        ////save.diamondsNum = SaveGameManager.instance.diamonds;
-        //save.id = SaveGameManager.instance.id;
-        //save.id = Geometry.instance.cube_id;
-        //save.g_positions = Geometry.instance.cube_positions;
-        save.playerPositionX = the_cube.transform.position.x;
-        save.playerPositionY = the_cube.transform.position.y;
-        save.g_object = Geometry.instance.cube;
-
-
-        //save.playerPositionX = player.transform.position.x;
-        //save.playerPositionY = player.transform.position.y;
-
+        save.object_id = the_cube.object_id;
+        save.assetObject = the_cube.assetObject;
+        save.objectPosition = the_cube.objectPosition;
+        save.objectRotation = the_cube.objectRotation;
+        save.objectScale = the_cube.objectScale;
+        save.assetName = the_cube.assetName;
+        //CC.ObjectList.Add(save);
 
         return save;
     }
@@ -80,8 +66,20 @@ public class SaveManager : MonoBehaviour
 
     public void SaveJSON()
     {
-        Save save = createSaveObject();
-        string Json_String = JsonUtility.ToJson(save);
+        
+        the_cube = FindObjectOfType<Geometry>();
+        Save save = new Save();
+
+
+        save.object_id = the_cube.object_id;
+        save.assetObject = the_cube.assetObject;
+        save.objectPosition = the_cube.objectPosition;
+        save.objectRotation = the_cube.objectRotation;
+        save.objectScale = the_cube.objectScale;
+        save.assetName = the_cube.assetName;
+        CC.ObjectList.Add(save);
+
+        string Json_String = JsonUtility.ToJson(CC);
         StreamWriter sw = new StreamWriter(Application.dataPath + "/JSONData.text");
         sw.Write(Json_String);
         sw.Close();
@@ -105,6 +103,17 @@ public class SaveManager : MonoBehaviour
 
             Debug.Log("-=-=-=-LOADED-=-=-=-=-");
 
+            //gObject = loadAsset.InstantiateObjectFromBundle(save.assetName).gameObject;
+            
+            foreach (Save save in CC.ObjectList)
+            {
+
+            }
+
+            gObject = loadAsset.InstantiateObjectFromBundle2(save.assetName);
+            gObject.transform.position = save.objectPosition;
+            gObject.transform.eulerAngles = save.objectRotation;
+            gObject.transform.localScale = save.objectScale;
             //MARKER LOAD THE DATA TO THE GAME
             //SaveGameManager.instance.something = save.something;
             ////SaveGameManager.instance.something_else = save.something_else;
@@ -120,7 +129,7 @@ public class SaveManager : MonoBehaviour
             //geomatary.instance.cube_positions = save.g_positions;
             //geomatary.instance.cube = save.g_object;
 
-            the_cube.transform.position = new Vector2(save.playerPositionX, save.playerPositionY);
+            //the_cube.transform.position = new Vector2(save.playerPositionX, save.playerPositionY);
             //player.transform.position = new Vector2(save.playerPositionX, save.playerPositionY);
 
             //MARKER Enemy position

@@ -1,0 +1,55 @@
+ManifestFileVersion: 0
+CRC: 3013339724
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: ff14d59ef16a577a56cf944ec8ba0e3b
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 77942d977ccba6dee2f457fb683e7e4d
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2a27923349132564eae0cd8edaa544f0, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+Assets:
+- Assets/Prefabs/Building3.prefab
+- Assets/Prefabs/Tree Type0 03.prefab
+- Assets/Prefabs/Tree Type0 04.prefab
+- Assets/Prefabs/Building1.prefab
+- Assets/Prefabs/Medieval_House.prefab
+- Assets/Prefabs/wooden_path.prefab
+- Assets/Prefabs/Tree Type2 03.prefab
+- Assets/Prefabs/Tree Type4 04 (1).prefab
+- Assets/Prefabs/Tree Type0 06.prefab
+- Assets/Prefabs/Tree Type6 04.prefab
+- Assets/Prefabs/multiple_rocks.prefab
+- Assets/Prefabs/Building2.prefab
+- Assets/Prefabs/Tree Type4 04.prefab
+- Assets/Prefabs/Tree Type0 05 1.prefab
+- Assets/Prefabs/Rock1.prefab
+- Assets/Prefabs/Tree Type6 03.prefab
+- Assets/Prefabs/Building4.prefab
+- Assets/Prefabs/Building5.prefab
+- Assets/Prefabs/Tree Type0 05.prefab
+- Assets/Prefabs/Tree Type0 02.prefab
+Dependencies: []
