@@ -128,24 +128,14 @@ public class SaveManager : MonoBehaviour
                 GameObject gameObj;
                string str =  Regex.Replace(save.assetName, @"\([^)]*\)", "");
                 str = str.Replace(" ", "");
-                //if (save.assetName.Contains("(Clone)"))
-                //{
-                //    str = save.assetName.Replace("(Clone)", "");
-                //    gameObj = loadAsset.InstantiateObjectFromBundle2(str);
-                //}
-                //else
-                //{
+      
                 gameObj = loadAsset.InstantiateObjectFromBundle2(str);
-                //}
-                
+            
                 gameObj.transform.position = save.objectPosition;
                 gameObj.transform.eulerAngles = save.objectRotation;
                 gameObj.transform.localScale = save.objectScale;
             }
-            //List<Item> items = JsonConvert.DeserializeObject<List<Item>>(Json_String);
-
-
-
+     
             //List<Save> save = JsonConvert.DeserializeObject<List<Save>>(Json_String);
             sr.Close();
 
