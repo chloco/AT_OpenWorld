@@ -45,9 +45,6 @@ public class Geometry : MonoBehaviour
         objectScale = this.gameObject.transform.localScale;
         
 
-        if (Input.GetKeyDown(KeyCode.Space))
-        {
-            Debug.Log("DIE!!!!!!!!!!!!!!!!");
-        }
+   
     }
 }

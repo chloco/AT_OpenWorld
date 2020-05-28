@@ -1,12 +1,12 @@
 ManifestFileVersion: 0
-CRC: 3375068049
+CRC: 3154383211
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 9605e5b221e5f882af1cf8ac9b62045d
+    Hash: dec1b456da26961a3d251a65a74c8a51
   TypeTreeHash:
     serializedVersion: 2
-    Hash: b774035b33efc28f82df0bcef24a2db0
+    Hash: 724dd3192a715fa1a3db0daf5590fe54
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -25,10 +25,20 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 48
   Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
 - Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 108
   Script: {instanceID: 0}
 - Class: 114
   Script: {fileID: 11500000, guid: 2a27923349132564eae0cd8edaa544f0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4fa5a1ee24ae6374c96206679172ae23, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c2469fb55618fea41ab449e7f812b629, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 Assets:
@@ -38,6 +48,7 @@ Assets:
 - Assets/Prefabs/Building1.prefab
 - Assets/Prefabs/Medieval_House.prefab
 - Assets/Prefabs/wooden_path.prefab
+- Assets/Prefabs/CoinStar.prefab
 - Assets/Prefabs/TreeType203.prefab
 - Assets/Prefabs/TreeType40.prefab
 - Assets/Prefabs/TreeType006.prefab

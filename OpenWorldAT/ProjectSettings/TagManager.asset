@@ -5,6 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Karen
+  - player
+  - destroy
   layers:
   - Default
   - TransparentFX

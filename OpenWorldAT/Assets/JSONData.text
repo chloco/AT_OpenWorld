@@ -1,17 +1,17 @@
 {
   "ObjectList": [
     {
-      "object_id": 24558.02,
-      "assetName": "wooden_path",
+      "object_id": 17312.916,
+      "assetName": "Building3(Clone)",
       "objectPosition": {
-        "x": -100.12,
-        "y": 42.2,
-        "z": -109.8
+        "x": -52.69576,
+        "y": 53.7,
+        "z": -107.946205
       },
       "objectRotation": {
-        "x": 351.604584,
-        "y": 81.31951,
-        "z": 316.279144
+        "x": 8.778702,
+        "y": 319.149628,
+        "z": 358.035156
       },
       "objectScale": {
         "x": 1.0,
@@ -20,316 +20,12 @@
       }
     },
     {
-      "object_id": 24465.56,
-      "assetName": "Building5",
-      "objectPosition": {
-        "x": -101.245255,
-        "y": 45.5,
-        "z": -103.3
-      },
-      "objectRotation": {
-        "x": 357.717133,
-        "y": 74.96515,
-        "z": 351.564636
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 23412.67,
-      "assetName": "TreeType404",
-      "objectPosition": {
-        "x": -68.99401,
-        "y": 48.4161644,
-        "z": -132.036835
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 23689.1465,
-      "assetName": "multiple_rocks (1)",
-      "objectPosition": {
-        "x": -75.0606,
-        "y": 46.13,
-        "z": -123.483536
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 23737.043,
-      "assetName": "multiple_rocks",
-      "objectPosition": {
-        "x": -71.03613,
-        "y": 49.2436142,
-        "z": -124.987427
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24063.4063,
-      "assetName": "Rock1 (2)",
-      "objectPosition": {
-        "x": -66.12064,
-        "y": 52.7929268,
-        "z": -126.972275
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24466.582,
-      "assetName": "TreeType003",
-      "objectPosition": {
-        "x": -68.83057,
-        "y": 48.33778,
-        "z": -110.534142
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24721.3652,
-      "assetName": "TreeType006",
-      "objectPosition": {
-        "x": -97.0,
-        "y": 42.8,
-        "z": -108.9
-      },
-      "objectRotation": {
-        "x": 357.8071,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.3413,
-        "y": 1.3413,
-        "z": 1.3413
-      }
-    },
-    {
-      "object_id": 23510.252,
-      "assetName": "Rock1 (1)",
-      "objectPosition": {
-        "x": -71.59749,
-        "y": 49.54364,
-        "z": -116.444008
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.3207,
-        "y": 1.3207,
-        "z": 1.3207
-      }
-    },
-    {
-      "object_id": 23440.873,
-      "assetName": "Rock1",
-      "objectPosition": {
-        "x": -81.1764,
-        "y": 47.21501,
-        "z": -95.40468
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.4505,
-        "y": 1.4505,
-        "z": 1.4505
-      }
-    },
-    {
-      "object_id": 24327.6055,
-      "assetName": "TreeType002",
-      "objectPosition": {
-        "x": -64.40471,
-        "y": 53.619854,
-        "z": -129.442352
-      },
-      "objectRotation": {
-        "x": 2.25907866E-06,
-        "y": 1.08119673E-06,
-        "z": 25.5758152
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24675.127,
-      "assetName": "Building4",
-      "objectPosition": {
-        "x": -65.33,
-        "y": 54.84,
-        "z": -120.9
-      },
-      "objectRotation": {
-        "x": 358.6603,
-        "y": 3.98780942,
-        "z": 28.3667774
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 39860.4023,
-      "assetName": "Building4(Clone)",
-      "objectPosition": {
-        "x": -161.0,
-        "y": 53.2,
-        "z": -105.4
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 40905.32,
-      "assetName": "wooden_path(Clone)",
-      "objectPosition": {
-        "x": -160.8,
-        "y": 51.8,
-        "z": -111.2
-      },
-      "objectRotation": {
-        "x": 359.869171,
-        "y": 88.66329,
-        "z": 354.411682
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 36633.7656,
-      "assetName": "TreeType603(Clone)",
-      "objectPosition": {
-        "x": -151.93808,
-        "y": 54.4,
-        "z": -102.903969
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.1543,
-        "y": 1.1543,
-        "z": 1.1543
-      }
-    },
-    {
-      "object_id": 42779.4727,
-      "assetName": "TreeType404(Clone)",
-      "objectPosition": {
-        "x": -168.574661,
-        "y": 50.8347321,
-        "z": -108.52597
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 54317.8438,
-      "assetName": "TreeType404(Clone)",
-      "objectPosition": {
-        "x": -176.050156,
-        "y": 50.5439072,
-        "z": -144.116272
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 57326.9531,
+      "object_id": 13850.8184,
       "assetName": "TreeType006(Clone)",
       "objectPosition": {
-        "x": -186.674683,
-        "y": 55.7934151,
-        "z": -139.163971
+        "x": -82.30804,
+        "y": 50.6186638,
+        "z": -67.18598
       },
       "objectRotation": {
         "x": 2.50447874E-06,
@@ -337,18 +33,436 @@
         "z": 0.0
       },
       "objectScale": {
-        "x": 1.4996,
-        "y": 1.4996,
-        "z": 1.4996
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
       }
     },
     {
-      "object_id": 38546.543,
+      "object_id": 2916.3335,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -10.4859905,
+        "y": 52.9616852,
+        "z": -1.19889545
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3616.873,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -23.3222866,
+        "y": 55.4239845,
+        "z": 1.06109333
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.72314924,
+        "y": 0.89172,
+        "z": 0.89172
+      }
+    },
+    {
+      "object_id": 2824.86035,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -14.974226,
+        "y": 50.28743,
+        "z": -8.473923
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.90424,
+        "y": 0.90424,
+        "z": 0.90424
+      }
+    },
+    {
+      "object_id": 3382.109,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -16.696806,
+        "y": 55.703186,
+        "z": -0.693182
+      },
+      "objectRotation": {
+        "x": 357.0294,
+        "y": 21.0678558,
+        "z": 358.856323
+      },
+      "objectScale": {
+        "x": 0.919122458,
+        "y": 1.5487,
+        "z": 0.8471699
+      }
+    },
+    {
+      "object_id": 3255.782,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -22.1193962,
+        "y": 52.1133461,
+        "z": -7.121334
+      },
+      "objectRotation": {
+        "x": 2.50448147E-06,
+        "y": 24.1683044,
+        "z": -1.01777751E-13
+      },
+      "objectScale": {
+        "x": 1.3644,
+        "y": 1.3644,
+        "z": 1.3644
+      }
+    },
+    {
+      "object_id": 3047.04321,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -26.2105827,
+        "y": 46.6183548,
+        "z": -13.6666565
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6143.58936,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -62.1672554,
+        "y": 47.4009,
+        "z": -5.654746
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.71279,
+        "y": 0.71279,
+        "z": 0.71279
+      }
+    },
+    {
+      "object_id": 4982.38037,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -53.5217,
+        "y": 45.0466,
+        "z": -9.413385
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3355.389,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -29.8269081,
+        "y": 48.8719673,
+        "z": -8.790638
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.02,
+        "y": 1.02,
+        "z": 1.02
+      }
+    },
+    {
+      "object_id": 5233.9043,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -53.96813,
+        "y": 48.07913,
+        "z": -3.12133312
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.1093,
+        "y": 1.1093,
+        "z": 1.1093
+      }
+    },
+    {
+      "object_id": 3741.14453,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -35.19888,
+        "y": 50.008503,
+        "z": -1.15461922
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6540513,
+        "y": 1.2847,
+        "z": 1.2847
+      }
+    },
+    {
+      "object_id": 3711.19849,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -38.2327652,
+        "y": 46.7428169,
+        "z": -8.035126
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.3856,
+        "y": 1.3856,
+        "z": 1.94593656
+      }
+    },
+    {
+      "object_id": 5492.96,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -55.7758865,
+        "y": 48.80584,
+        "z": 0.0259690285
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4607,
+        "y": 1.4607,
+        "z": 1.4607
+      }
+    },
+    {
+      "object_id": 4031.79175,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -41.9919853,
+        "y": 47.4687,
+        "z": -3.89709
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4756.37451,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -49.8019447,
+        "y": 47.608696,
+        "z": -3.09077072
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4257.38037,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -44.2071533,
+        "y": 47.98216,
+        "z": 0.90582037
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.86762846,
+        "y": 1.4516,
+        "z": 1.4516
+      }
+    },
+    {
+      "object_id": 6922.55029,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -66.60993,
+        "y": 49.80727,
+        "z": 2.21424532
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6360.72852,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -64.57295,
+        "y": 46.11382,
+        "z": -8.036037
+      },
+      "objectRotation": {
+        "x": 356.8216,
+        "y": 353.2199,
+        "z": 0.37768355
+      },
+      "objectScale": {
+        "x": 0.93,
+        "y": 0.93,
+        "z": 0.93
+      }
+    },
+    {
+      "object_id": 5985.72168,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.41191,
+        "y": 44.4015732,
+        "z": -10.9075871
+      },
+      "objectRotation": {
+        "x": 355.227478,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.54833877,
+        "y": 1.2361,
+        "z": 1.2361
+      }
+    },
+    {
+      "object_id": 7650.413,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -75.43,
+        "y": 44.28,
+        "z": 0.1
+      },
+      "objectRotation": {
+        "x": 354.123962,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 15811.9082,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -117.9551,
+        "y": 40.01,
+        "z": -17.2540627
+      },
+      "objectRotation": {
+        "x": 351.208344,
+        "y": 15.2513771,
+        "z": 331.238556
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 14289.3857,
       "assetName": "Rock1(Clone)",
       "objectPosition": {
-        "x": -155.207748,
-        "y": 52.7475052,
-        "z": -108.049973
+        "x": -111.182121,
+        "y": 43.88462,
+        "z": -1.435936
+      },
+      "objectRotation": {
+        "x": 356.5196,
+        "y": 61.5545,
+        "z": 356.068939
+      },
+      "objectScale": {
+        "x": 1.2853,
+        "y": 1.2853,
+        "z": 1.2853
+      }
+    },
+    {
+      "object_id": 17324.6914,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -120.578415,
+        "y": 42.5126266,
+        "z": -31.27642
       },
       "objectRotation": {
         "x": 0.0,
@@ -356,56 +470,132 @@
         "z": 0.0
       },
       "objectScale": {
-        "x": 1.7368,
-        "y": 1.7368,
-        "z": 1.7368
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
       }
     },
     {
-      "object_id": 36437.1172,
+      "object_id": 16790.2734,
       "assetName": "Rock1(Clone)",
       "objectPosition": {
-        "x": -145.0874,
-        "y": 48.4474335,
-        "z": -114.1911
+        "x": -121.8,
+        "y": 42.0002441,
+        "z": -13.8206959
       },
       "objectRotation": {
         "x": 0.0,
+        "y": 61.69755,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 20152.0957,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -123.386612,
+        "y": 53.1517639,
+        "z": -45.8555222
+      },
+      "objectRotation": {
+        "x": 322.291016,
         "y": 0.0,
         "z": 0.0
       },
       "objectScale": {
-        "x": 1.2271,
-        "y": 1.2271,
-        "z": 1.2271
+        "x": 1.2497,
+        "y": 1.2497,
+        "z": 1.2497
       }
     },
     {
-      "object_id": 26217.9219,
+      "object_id": 20338.1348,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.073074,
+        "y": 51.71,
+        "z": -35.51758
+      },
+      "objectRotation": {
+        "x": 5.259582,
+        "y": 351.245148,
+        "z": 315.853943
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21597.94,
       "assetName": "TreeType604(Clone)",
       "objectPosition": {
-        "x": -115.3,
-        "y": 50.1979256,
-        "z": -102.0
+        "x": -133.241577,
+        "y": 54.3006668,
+        "z": -29.9342346
       },
       "objectRotation": {
-        "x": 6.579274,
-        "y": 109.575584,
-        "z": 342.140747
+        "x": 2.50447874E-06,
+        "y": 61.93292,
+        "z": 3.0533326E-13
       },
       "objectScale": {
-        "x": 1.3946,
-        "y": 1.3946,
-        "z": 1.3946
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
       }
     },
     {
-      "object_id": 14835.3408,
+      "object_id": 20285.7754,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -126.21,
+        "y": 52.02,
+        "z": -40.62918
+      },
+      "objectRotation": {
+        "x": 2.70771,
+        "y": 329.6972,
+        "z": 317.2688
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21833.81,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -129.92,
+        "y": 54.88,
+        "z": -44.07709
+      },
+      "objectRotation": {
+        "x": 1.38738221E-06,
+        "y": 332.57782,
+        "z": 352.566132
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 18175.42,
       "assetName": "Medieval_House(Clone)",
       "objectPosition": {
-        "x": -75.3,
-        "y": 45.0,
-        "z": -84.5
+        "x": -106.446915,
+        "y": 50.7974854,
+        "z": -65.3
       },
       "objectRotation": {
         "x": 0.0,
@@ -419,411 +609,69 @@
       }
     },
     {
-      "object_id": 15535.5967,
-      "assetName": "multiple_rocks(Clone)",
-      "objectPosition": {
-        "x": -65.50565,
-        "y": 45.32483,
-        "z": -95.8658752
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 16880.502,
-      "assetName": "multiple_rocks(Clone)",
-      "objectPosition": {
-        "x": -76.4715652,
-        "y": 45.7468262,
-        "z": -94.55067
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 18579.5723,
-      "assetName": "multiple_rocks(Clone)",
-      "objectPosition": {
-        "x": -75.36856,
-        "y": 45.6798172,
-        "z": -103.983208
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 15932.99,
-      "assetName": "wooden_path(Clone)",
-      "objectPosition": {
-        "x": -70.5,
-        "y": 45.5,
-        "z": -94.3
-      },
-      "objectRotation": {
-        "x": 0.443512082,
-        "y": 80.43392,
-        "z": 2.629799
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24558.02,
-      "assetName": "wooden_path",
-      "objectPosition": {
-        "x": -100.12,
-        "y": 42.2,
-        "z": -109.8
-      },
-      "objectRotation": {
-        "x": 351.604584,
-        "y": 81.31951,
-        "z": 316.279144
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24465.56,
-      "assetName": "Building5",
-      "objectPosition": {
-        "x": -101.245255,
-        "y": 45.5,
-        "z": -103.3
-      },
-      "objectRotation": {
-        "x": 357.717133,
-        "y": 74.96515,
-        "z": 351.564636
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 23412.67,
-      "assetName": "TreeType404",
-      "objectPosition": {
-        "x": -68.99401,
-        "y": 48.4161644,
-        "z": -132.036835
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 23689.1465,
-      "assetName": "multiple_rocks (1)",
-      "objectPosition": {
-        "x": -75.0606,
-        "y": 46.13,
-        "z": -123.483536
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 23737.043,
-      "assetName": "multiple_rocks",
-      "objectPosition": {
-        "x": -71.03613,
-        "y": 49.2436142,
-        "z": -124.987427
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24063.4063,
-      "assetName": "Rock1 (2)",
-      "objectPosition": {
-        "x": -66.12064,
-        "y": 52.7929268,
-        "z": -126.972275
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24466.582,
-      "assetName": "TreeType003",
-      "objectPosition": {
-        "x": -68.83057,
-        "y": 48.33778,
-        "z": -110.534142
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24721.3652,
-      "assetName": "TreeType006",
-      "objectPosition": {
-        "x": -97.0,
-        "y": 42.8,
-        "z": -108.9
-      },
-      "objectRotation": {
-        "x": 357.8071,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.3413,
-        "y": 1.3413,
-        "z": 1.3413
-      }
-    },
-    {
-      "object_id": 23510.252,
-      "assetName": "Rock1 (1)",
-      "objectPosition": {
-        "x": -71.59749,
-        "y": 49.54364,
-        "z": -116.444008
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.3207,
-        "y": 1.3207,
-        "z": 1.3207
-      }
-    },
-    {
-      "object_id": 23440.873,
-      "assetName": "Rock1",
-      "objectPosition": {
-        "x": -81.1764,
-        "y": 47.21501,
-        "z": -95.40468
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.4505,
-        "y": 1.4505,
-        "z": 1.4505
-      }
-    },
-    {
-      "object_id": 24327.6055,
-      "assetName": "TreeType002",
-      "objectPosition": {
-        "x": -64.40471,
-        "y": 53.619854,
-        "z": -129.442352
-      },
-      "objectRotation": {
-        "x": 2.25907866E-06,
-        "y": 1.08119673E-06,
-        "z": 25.5758152
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 24675.127,
-      "assetName": "Building4",
-      "objectPosition": {
-        "x": -65.33,
-        "y": 54.84,
-        "z": -120.9
-      },
-      "objectRotation": {
-        "x": 358.6603,
-        "y": 3.98780942,
-        "z": 28.3667774
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 39860.4023,
-      "assetName": "Building4(Clone)",
-      "objectPosition": {
-        "x": -161.0,
-        "y": 53.2,
-        "z": -105.4
-      },
-      "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 40905.32,
-      "assetName": "wooden_path(Clone)",
-      "objectPosition": {
-        "x": -160.8,
-        "y": 51.8,
-        "z": -111.2
-      },
-      "objectRotation": {
-        "x": 359.869171,
-        "y": 88.66329,
-        "z": 354.411682
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 36633.7656,
-      "assetName": "TreeType603(Clone)",
-      "objectPosition": {
-        "x": -151.93808,
-        "y": 54.4,
-        "z": -102.903969
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.1543,
-        "y": 1.1543,
-        "z": 1.1543
-      }
-    },
-    {
-      "object_id": 42779.4727,
-      "assetName": "TreeType404(Clone)",
-      "objectPosition": {
-        "x": -168.574661,
-        "y": 50.8347321,
-        "z": -108.52597
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 54317.8438,
-      "assetName": "TreeType404(Clone)",
-      "objectPosition": {
-        "x": -176.050156,
-        "y": 50.5439072,
-        "z": -144.116272
-      },
-      "objectRotation": {
-        "x": 2.50447874E-06,
-        "y": 0.0,
-        "z": 0.0
-      },
-      "objectScale": {
-        "x": 1.0,
-        "y": 1.0,
-        "z": 1.0
-      }
-    },
-    {
-      "object_id": 57326.9531,
+      "object_id": 32108.5332,
       "assetName": "TreeType006(Clone)",
       "objectPosition": {
-        "x": -186.674683,
-        "y": 55.7934151,
-        "z": -139.163971
+        "x": 26.0175362,
+        "y": 43.1581421,
+        "z": -171.956375
+      },
+      "objectRotation": {
+        "x": 2.50447943E-06,
+        "y": 321.587982,
+        "z": -2.035555E-13
+      },
+      "objectScale": {
+        "x": 1.66,
+        "y": 1.66,
+        "z": 1.66
+      }
+    },
+    {
+      "object_id": 37123.7227,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 8.206326,
+        "y": 45.7818031,
+        "z": -186.97702
+      },
+      "objectRotation": {
+        "x": 2.41964744E-06,
+        "y": -6.46320245E-07,
+        "z": 345.044678
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 59042.7148,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -4.2458353,
+        "y": 52.86415,
+        "z": -237.1288
+      },
+      "objectRotation": {
+        "x": 2.50277549E-06,
+        "y": -9.236194E-08,
+        "z": 357.886536
+      },
+      "objectScale": {
+        "x": 1.7244,
+        "y": 1.7244,
+        "z": 1.7244
+      }
+    },
+    {
+      "object_id": 41042.95,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -3.22470284,
+        "y": 48.9831772,
+        "z": -196.5533
       },
       "objectRotation": {
         "x": 2.50447874E-06,
@@ -831,18 +679,56 @@
         "z": 0.0
       },
       "objectScale": {
-        "x": 1.4996,
-        "y": 1.4996,
-        "z": 1.4996
+        "x": 1.2822,
+        "y": 1.2822,
+        "z": 1.2822
       }
     },
     {
-      "object_id": 38546.543,
+      "object_id": 72469.19,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -136.073166,
+        "y": 50.78477,
+        "z": -226.658752
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4322,
+        "y": 1.4322,
+        "z": 1.4322
+      }
+    },
+    {
+      "object_id": 71946.94,
       "assetName": "Rock1(Clone)",
       "objectPosition": {
-        "x": -155.207748,
-        "y": 52.7475052,
-        "z": -108.049973
+        "x": -158.75,
+        "y": 46.99,
+        "z": -211.038666
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 21.0664616,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4454,
+        "y": 1.4454,
+        "z": 1.4454
+      }
+    },
+    {
+      "object_id": 66431.52,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -157.8646,
+        "y": 48.883316,
+        "z": -197.789581
       },
       "objectRotation": {
         "x": 0.0,
@@ -850,56 +736,322 @@
         "z": 0.0
       },
       "objectScale": {
-        "x": 1.7368,
-        "y": 1.7368,
-        "z": 1.7368
+        "x": 2.2542,
+        "y": 2.2542,
+        "z": 2.2542
       }
     },
     {
-      "object_id": 36437.1172,
-      "assetName": "Rock1(Clone)",
+      "object_id": 31931.9824,
+      "assetName": "TreeType0051(Clone)",
       "objectPosition": {
-        "x": -145.0874,
-        "y": 48.4474335,
-        "z": -114.1911
+        "x": -136.6817,
+        "y": 55.9736671,
+        "z": -100.583519
       },
       "objectRotation": {
-        "x": 0.0,
-        "y": 0.0,
-        "z": 0.0
+        "x": 348.101929,
+        "y": 341.979248,
+        "z": 3.837179
       },
       "objectScale": {
-        "x": 1.2271,
-        "y": 1.2271,
-        "z": 1.2271
+        "x": 1.5969,
+        "y": 1.5969,
+        "z": 1.5969
       }
     },
     {
-      "object_id": 26217.9219,
+      "object_id": 45811.15,
       "assetName": "TreeType604(Clone)",
       "objectPosition": {
-        "x": -115.3,
-        "y": 50.1979256,
-        "z": -102.0
+        "x": -167.2,
+        "y": 45.803257,
+        "z": -125.528366
       },
       "objectRotation": {
-        "x": 6.579274,
-        "y": 109.575584,
-        "z": 342.140747
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
       },
       "objectScale": {
-        "x": 1.3946,
-        "y": 1.3946,
-        "z": 1.3946
+        "x": 1.5514,
+        "y": 1.5514,
+        "z": 1.5514
       }
     },
     {
-      "object_id": 14835.3408,
+      "object_id": 53254.9141,
+      "assetName": "Tree_Type0_05(Clone)",
+      "objectPosition": {
+        "x": -184.423172,
+        "y": 51.6881256,
+        "z": -128.729736
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6815,
+        "y": 1.6815,
+        "z": 1.6815
+      }
+    },
+    {
+      "object_id": 30097.69,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.983658,
+        "y": 50.6856232,
+        "z": -104.364136
+      },
+      "objectRotation": {
+        "x": 338.7041,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 27445.3223,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -119.26,
+        "y": 52.1741257,
+        "z": -102.47065
+      },
+      "objectRotation": {
+        "x": 352.1222,
+        "y": 82.59855,
+        "z": 313.464233
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 66684.375,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -153.935669,
+        "y": 46.94,
+        "z": -201.95253
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 352.072754
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 85223.96,
+      "assetName": "TreeType603(Clone)",
+      "objectPosition": {
+        "x": -89.36348,
+        "y": 41.2047653,
+        "z": -274.845947
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 72709.59,
       "assetName": "Medieval_House(Clone)",
       "objectPosition": {
-        "x": -75.3,
-        "y": 45.0,
-        "z": -84.5
+        "x": -166.95,
+        "y": 47.54,
+        "z": -206.342529
+      },
+      "objectRotation": {
+        "x": 356.824982,
+        "y": 283.312775,
+        "z": 359.249146
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 59454.32,
+      "assetName": "Building2(Clone)",
+      "objectPosition": {
+        "x": -83.96,
+        "y": 67.25,
+        "z": -218.820648
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 32.1680145
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 46597.082,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": -15.3,
+        "y": 55.1503677,
+        "z": -208.138
+      },
+      "objectRotation": {
+        "x": 355.3428,
+        "y": 289.7199,
+        "z": 358.332977
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 47191.82,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -165.659042,
+        "y": 43.18067,
+        "z": -133.732315
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 51241.76,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -160.157669,
+        "y": 44.1532249,
+        "z": -153.75882
+      },
+      "objectRotation": {
+        "x": 3.62805223,
+        "y": -5.3468014E-08,
+        "z": 330.6769
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 0.0,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectRotation": {
+        "x": 1.755113,
+        "y": 311.484344,
+        "z": 2.35917115
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 57208.2148,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -164.707123,
+        "y": 49.5417137,
+        "z": -166.2089
+      },
+      "objectRotation": {
+        "x": 2.486235E-06,
+        "y": -3.01742062E-07,
+        "z": 353.080139
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 53275.18,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -169.4505,
+        "y": 47.7675972,
+        "z": -149.26474
+      },
+      "objectRotation": {
+        "x": 346.0673,
+        "y": 275.803223,
+        "z": 358.598175
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 37676.375,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -147.399734,
+        "y": 47.8050537,
+        "z": -116.8947
+      },
+      "objectRotation": {
+        "x": 356.56073,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 26949.0059,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -124.123718,
+        "y": 54.30488,
+        "z": -92.7
       },
       "objectRotation": {
         "x": 0.0,
@@ -913,12 +1065,506 @@
       }
     },
     {
-      "object_id": 15535.5967,
+      "object_id": 31556.09,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -52.7644119,
+        "y": 55.39779,
+        "z": -160.321838
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 25615.1563,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.19149,
+        "y": 50.98751,
+        "z": -138.375031
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 17312.916,
+      "assetName": "Building3(Clone)",
+      "objectPosition": {
+        "x": -52.69576,
+        "y": 53.7,
+        "z": -107.946205
+      },
+      "objectRotation": {
+        "x": 8.778702,
+        "y": 319.149628,
+        "z": 358.035156
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 13850.8184,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": -82.30804,
+        "y": 50.6186638,
+        "z": -67.18598
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 2916.3335,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -10.4859905,
+        "y": 52.9616852,
+        "z": -1.19889545
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3616.873,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -23.3222866,
+        "y": 55.4239845,
+        "z": 1.06109333
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.72314924,
+        "y": 0.89172,
+        "z": 0.89172
+      }
+    },
+    {
+      "object_id": 2824.86035,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -14.974226,
+        "y": 50.28743,
+        "z": -8.473923
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.90424,
+        "y": 0.90424,
+        "z": 0.90424
+      }
+    },
+    {
+      "object_id": 3382.109,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -16.696806,
+        "y": 55.703186,
+        "z": -0.693182
+      },
+      "objectRotation": {
+        "x": 357.0294,
+        "y": 21.0678558,
+        "z": 358.856323
+      },
+      "objectScale": {
+        "x": 0.919122458,
+        "y": 1.5487,
+        "z": 0.8471699
+      }
+    },
+    {
+      "object_id": 3255.782,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -22.1193962,
+        "y": 52.1133461,
+        "z": -7.121334
+      },
+      "objectRotation": {
+        "x": 2.50448147E-06,
+        "y": 24.1683044,
+        "z": -1.01777751E-13
+      },
+      "objectScale": {
+        "x": 1.3644,
+        "y": 1.3644,
+        "z": 1.3644
+      }
+    },
+    {
+      "object_id": 3047.04321,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -26.2105827,
+        "y": 46.6183548,
+        "z": -13.6666565
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6143.58936,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -62.1672554,
+        "y": 47.4009,
+        "z": -5.654746
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.71279,
+        "y": 0.71279,
+        "z": 0.71279
+      }
+    },
+    {
+      "object_id": 4982.38037,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -53.5217,
+        "y": 45.0466,
+        "z": -9.413385
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3355.389,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -29.8269081,
+        "y": 48.8719673,
+        "z": -8.790638
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.02,
+        "y": 1.02,
+        "z": 1.02
+      }
+    },
+    {
+      "object_id": 5233.9043,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -53.96813,
+        "y": 48.07913,
+        "z": -3.12133312
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.1093,
+        "y": 1.1093,
+        "z": 1.1093
+      }
+    },
+    {
+      "object_id": 3741.14453,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -35.19888,
+        "y": 50.008503,
+        "z": -1.15461922
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6540513,
+        "y": 1.2847,
+        "z": 1.2847
+      }
+    },
+    {
+      "object_id": 3711.19849,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -38.2327652,
+        "y": 46.7428169,
+        "z": -8.035126
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.3856,
+        "y": 1.3856,
+        "z": 1.94593656
+      }
+    },
+    {
+      "object_id": 5492.96,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -55.7758865,
+        "y": 48.80584,
+        "z": 0.0259690285
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4607,
+        "y": 1.4607,
+        "z": 1.4607
+      }
+    },
+    {
+      "object_id": 4031.79175,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -41.9919853,
+        "y": 47.4687,
+        "z": -3.89709
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4756.37451,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -49.8019447,
+        "y": 47.608696,
+        "z": -3.09077072
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4257.38037,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -44.2071533,
+        "y": 47.98216,
+        "z": 0.90582037
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.86762846,
+        "y": 1.4516,
+        "z": 1.4516
+      }
+    },
+    {
+      "object_id": 6922.55029,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -66.60993,
+        "y": 49.80727,
+        "z": 2.21424532
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6360.72852,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -64.57295,
+        "y": 46.11382,
+        "z": -8.036037
+      },
+      "objectRotation": {
+        "x": 356.8216,
+        "y": 353.2199,
+        "z": 0.37768355
+      },
+      "objectScale": {
+        "x": 0.93,
+        "y": 0.93,
+        "z": 0.93
+      }
+    },
+    {
+      "object_id": 5985.72168,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.41191,
+        "y": 44.4015732,
+        "z": -10.9075871
+      },
+      "objectRotation": {
+        "x": 355.227478,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.54833877,
+        "y": 1.2361,
+        "z": 1.2361
+      }
+    },
+    {
+      "object_id": 7650.413,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -75.43,
+        "y": 44.28,
+        "z": 0.1
+      },
+      "objectRotation": {
+        "x": 354.123962,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 15811.9082,
       "assetName": "multiple_rocks(Clone)",
       "objectPosition": {
-        "x": -65.50565,
-        "y": 45.32483,
-        "z": -95.8658752
+        "x": -117.9551,
+        "y": 40.01,
+        "z": -17.2540627
+      },
+      "objectRotation": {
+        "x": 351.208344,
+        "y": 15.2513771,
+        "z": 331.238556
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 14289.3857,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -111.182121,
+        "y": 43.88462,
+        "z": -1.435936
+      },
+      "objectRotation": {
+        "x": 356.5196,
+        "y": 61.5545,
+        "z": 356.068939
+      },
+      "objectScale": {
+        "x": 1.2853,
+        "y": 1.2853,
+        "z": 1.2853
+      }
+    },
+    {
+      "object_id": 17324.6914,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -120.578415,
+        "y": 42.5126266,
+        "z": -31.27642
       },
       "objectRotation": {
         "x": 0.0,
@@ -932,16 +1578,16 @@
       }
     },
     {
-      "object_id": 16880.502,
-      "assetName": "multiple_rocks(Clone)",
+      "object_id": 16790.2734,
+      "assetName": "Rock1(Clone)",
       "objectPosition": {
-        "x": -76.4715652,
-        "y": 45.7468262,
-        "z": -94.55067
+        "x": -121.8,
+        "y": 42.0002441,
+        "z": -13.8206959
       },
       "objectRotation": {
         "x": 0.0,
-        "y": 0.0,
+        "y": 61.69755,
         "z": 0.0
       },
       "objectScale": {
@@ -951,17 +1597,36 @@
       }
     },
     {
-      "object_id": 18579.5723,
-      "assetName": "multiple_rocks(Clone)",
+      "object_id": 20152.0957,
+      "assetName": "Rock1(Clone)",
       "objectPosition": {
-        "x": -75.36856,
-        "y": 45.6798172,
-        "z": -103.983208
+        "x": -123.386612,
+        "y": 53.1517639,
+        "z": -45.8555222
       },
       "objectRotation": {
-        "x": 0.0,
+        "x": 322.291016,
         "y": 0.0,
         "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.2497,
+        "y": 1.2497,
+        "z": 1.2497
+      }
+    },
+    {
+      "object_id": 20338.1348,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.073074,
+        "y": 51.71,
+        "z": -35.51758
+      },
+      "objectRotation": {
+        "x": 5.259582,
+        "y": 351.245148,
+        "z": 315.853943
       },
       "objectScale": {
         "x": 1.0,
@@ -970,17 +1635,2772 @@
       }
     },
     {
-      "object_id": 15932.99,
+      "object_id": 21597.94,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -133.241577,
+        "y": 54.3006668,
+        "z": -29.9342346
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 61.93292,
+        "z": 3.0533326E-13
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 20285.7754,
       "assetName": "wooden_path(Clone)",
       "objectPosition": {
-        "x": -70.5,
-        "y": 45.5,
-        "z": -94.3
+        "x": -126.21,
+        "y": 52.02,
+        "z": -40.62918
       },
       "objectRotation": {
-        "x": 0.443512082,
-        "y": 80.43392,
-        "z": 2.629799
+        "x": 2.70771,
+        "y": 329.6972,
+        "z": 317.2688
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21833.81,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -129.92,
+        "y": 54.88,
+        "z": -44.07709
+      },
+      "objectRotation": {
+        "x": 1.38738221E-06,
+        "y": 332.57782,
+        "z": 352.566132
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 18175.42,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -106.446915,
+        "y": 50.7974854,
+        "z": -65.3
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 32108.5332,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 26.0175362,
+        "y": 43.1581421,
+        "z": -171.956375
+      },
+      "objectRotation": {
+        "x": 2.50447943E-06,
+        "y": 321.587982,
+        "z": -2.035555E-13
+      },
+      "objectScale": {
+        "x": 1.66,
+        "y": 1.66,
+        "z": 1.66
+      }
+    },
+    {
+      "object_id": 37123.7227,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 8.206326,
+        "y": 45.7818031,
+        "z": -186.97702
+      },
+      "objectRotation": {
+        "x": 2.41964744E-06,
+        "y": -6.46320245E-07,
+        "z": 345.044678
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 59042.7148,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -4.2458353,
+        "y": 52.86415,
+        "z": -237.1288
+      },
+      "objectRotation": {
+        "x": 2.50277549E-06,
+        "y": -9.236194E-08,
+        "z": 357.886536
+      },
+      "objectScale": {
+        "x": 1.7244,
+        "y": 1.7244,
+        "z": 1.7244
+      }
+    },
+    {
+      "object_id": 41042.95,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -3.22470284,
+        "y": 48.9831772,
+        "z": -196.5533
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.2822,
+        "y": 1.2822,
+        "z": 1.2822
+      }
+    },
+    {
+      "object_id": 72469.19,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -136.073166,
+        "y": 50.78477,
+        "z": -226.658752
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4322,
+        "y": 1.4322,
+        "z": 1.4322
+      }
+    },
+    {
+      "object_id": 71946.94,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -158.75,
+        "y": 46.99,
+        "z": -211.038666
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 21.0664616,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4454,
+        "y": 1.4454,
+        "z": 1.4454
+      }
+    },
+    {
+      "object_id": 66431.52,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -157.8646,
+        "y": 48.883316,
+        "z": -197.789581
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 2.2542,
+        "y": 2.2542,
+        "z": 2.2542
+      }
+    },
+    {
+      "object_id": 31931.9824,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -136.6817,
+        "y": 55.9736671,
+        "z": -100.583519
+      },
+      "objectRotation": {
+        "x": 348.101929,
+        "y": 341.979248,
+        "z": 3.837179
+      },
+      "objectScale": {
+        "x": 1.5969,
+        "y": 1.5969,
+        "z": 1.5969
+      }
+    },
+    {
+      "object_id": 45811.15,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -167.2,
+        "y": 45.803257,
+        "z": -125.528366
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.5514,
+        "y": 1.5514,
+        "z": 1.5514
+      }
+    },
+    {
+      "object_id": 53254.9141,
+      "assetName": "Tree_Type0_05(Clone)",
+      "objectPosition": {
+        "x": -184.423172,
+        "y": 51.6881256,
+        "z": -128.729736
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6815,
+        "y": 1.6815,
+        "z": 1.6815
+      }
+    },
+    {
+      "object_id": 30097.69,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.983658,
+        "y": 50.6856232,
+        "z": -104.364136
+      },
+      "objectRotation": {
+        "x": 338.7041,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 27445.3223,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -119.26,
+        "y": 52.1741257,
+        "z": -102.47065
+      },
+      "objectRotation": {
+        "x": 352.1222,
+        "y": 82.59855,
+        "z": 313.464233
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 66684.375,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -153.935669,
+        "y": 46.94,
+        "z": -201.95253
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 352.072754
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 85223.96,
+      "assetName": "TreeType603(Clone)",
+      "objectPosition": {
+        "x": -89.36348,
+        "y": 41.2047653,
+        "z": -274.845947
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 72709.59,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -166.95,
+        "y": 47.54,
+        "z": -206.342529
+      },
+      "objectRotation": {
+        "x": 356.824982,
+        "y": 283.312775,
+        "z": 359.249146
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 59454.32,
+      "assetName": "Building2(Clone)",
+      "objectPosition": {
+        "x": -83.96,
+        "y": 67.25,
+        "z": -218.820648
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 32.1680145
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 46597.082,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": -15.3,
+        "y": 55.1503677,
+        "z": -208.138
+      },
+      "objectRotation": {
+        "x": 355.3428,
+        "y": 289.7199,
+        "z": 358.332977
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 47191.82,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -165.659042,
+        "y": 43.18067,
+        "z": -133.732315
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 51241.76,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -160.157669,
+        "y": 44.1532249,
+        "z": -153.75882
+      },
+      "objectRotation": {
+        "x": 3.62805223,
+        "y": -5.3468014E-08,
+        "z": 330.6769
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 0.0,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectRotation": {
+        "x": 1.755113,
+        "y": 311.484344,
+        "z": 2.35917115
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 57208.2148,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -164.707123,
+        "y": 49.5417137,
+        "z": -166.2089
+      },
+      "objectRotation": {
+        "x": 2.486235E-06,
+        "y": -3.01742062E-07,
+        "z": 353.080139
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 53275.18,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -169.4505,
+        "y": 47.7675972,
+        "z": -149.26474
+      },
+      "objectRotation": {
+        "x": 346.0673,
+        "y": 275.803223,
+        "z": 358.598175
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 37676.375,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -147.399734,
+        "y": 47.8050537,
+        "z": -116.8947
+      },
+      "objectRotation": {
+        "x": 356.56073,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 26949.0059,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -124.123718,
+        "y": 54.30488,
+        "z": -92.7
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 31556.09,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -52.7644119,
+        "y": 55.39779,
+        "z": -160.321838
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 25615.1563,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.19149,
+        "y": 50.98751,
+        "z": -138.375031
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 17312.916,
+      "assetName": "Building3(Clone)",
+      "objectPosition": {
+        "x": -52.69576,
+        "y": 53.7,
+        "z": -107.946205
+      },
+      "objectRotation": {
+        "x": 8.778702,
+        "y": 319.149628,
+        "z": 358.035156
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 13850.8184,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": -82.30804,
+        "y": 50.6186638,
+        "z": -67.18598
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 2916.3335,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -10.4859905,
+        "y": 52.9616852,
+        "z": -1.19889545
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3616.873,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -23.3222866,
+        "y": 55.4239845,
+        "z": 1.06109333
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.72314924,
+        "y": 0.89172,
+        "z": 0.89172
+      }
+    },
+    {
+      "object_id": 2824.86035,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -14.974226,
+        "y": 50.28743,
+        "z": -8.473923
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.90424,
+        "y": 0.90424,
+        "z": 0.90424
+      }
+    },
+    {
+      "object_id": 3382.109,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -16.696806,
+        "y": 55.703186,
+        "z": -0.693182
+      },
+      "objectRotation": {
+        "x": 357.0294,
+        "y": 21.0678558,
+        "z": 358.856323
+      },
+      "objectScale": {
+        "x": 0.919122458,
+        "y": 1.5487,
+        "z": 0.8471699
+      }
+    },
+    {
+      "object_id": 3255.782,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -22.1193962,
+        "y": 52.1133461,
+        "z": -7.121334
+      },
+      "objectRotation": {
+        "x": 2.50448147E-06,
+        "y": 24.1683044,
+        "z": -1.01777751E-13
+      },
+      "objectScale": {
+        "x": 1.3644,
+        "y": 1.3644,
+        "z": 1.3644
+      }
+    },
+    {
+      "object_id": 3047.04321,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -26.2105827,
+        "y": 46.6183548,
+        "z": -13.6666565
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6143.58936,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -62.1672554,
+        "y": 47.4009,
+        "z": -5.654746
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.71279,
+        "y": 0.71279,
+        "z": 0.71279
+      }
+    },
+    {
+      "object_id": 4982.38037,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -53.5217,
+        "y": 45.0466,
+        "z": -9.413385
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3355.389,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -29.8269081,
+        "y": 48.8719673,
+        "z": -8.790638
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.02,
+        "y": 1.02,
+        "z": 1.02
+      }
+    },
+    {
+      "object_id": 5233.9043,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -53.96813,
+        "y": 48.07913,
+        "z": -3.12133312
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.1093,
+        "y": 1.1093,
+        "z": 1.1093
+      }
+    },
+    {
+      "object_id": 3741.14453,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -35.19888,
+        "y": 50.008503,
+        "z": -1.15461922
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6540513,
+        "y": 1.2847,
+        "z": 1.2847
+      }
+    },
+    {
+      "object_id": 3711.19849,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -38.2327652,
+        "y": 46.7428169,
+        "z": -8.035126
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.3856,
+        "y": 1.3856,
+        "z": 1.94593656
+      }
+    },
+    {
+      "object_id": 5492.96,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -55.7758865,
+        "y": 48.80584,
+        "z": 0.0259690285
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4607,
+        "y": 1.4607,
+        "z": 1.4607
+      }
+    },
+    {
+      "object_id": 4031.79175,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -41.9919853,
+        "y": 47.4687,
+        "z": -3.89709
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4756.37451,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -49.8019447,
+        "y": 47.608696,
+        "z": -3.09077072
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4257.38037,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -44.2071533,
+        "y": 47.98216,
+        "z": 0.90582037
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.86762846,
+        "y": 1.4516,
+        "z": 1.4516
+      }
+    },
+    {
+      "object_id": 6922.55029,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -66.60993,
+        "y": 49.80727,
+        "z": 2.21424532
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6360.72852,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -64.57295,
+        "y": 46.11382,
+        "z": -8.036037
+      },
+      "objectRotation": {
+        "x": 356.8216,
+        "y": 353.2199,
+        "z": 0.37768355
+      },
+      "objectScale": {
+        "x": 0.93,
+        "y": 0.93,
+        "z": 0.93
+      }
+    },
+    {
+      "object_id": 5985.72168,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.41191,
+        "y": 44.4015732,
+        "z": -10.9075871
+      },
+      "objectRotation": {
+        "x": 355.227478,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.54833877,
+        "y": 1.2361,
+        "z": 1.2361
+      }
+    },
+    {
+      "object_id": 7650.413,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -75.43,
+        "y": 44.28,
+        "z": 0.1
+      },
+      "objectRotation": {
+        "x": 354.123962,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 15811.9082,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -117.9551,
+        "y": 40.01,
+        "z": -17.2540627
+      },
+      "objectRotation": {
+        "x": 351.208344,
+        "y": 15.2513771,
+        "z": 331.238556
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 14289.3857,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -111.182121,
+        "y": 43.88462,
+        "z": -1.435936
+      },
+      "objectRotation": {
+        "x": 356.5196,
+        "y": 61.5545,
+        "z": 356.068939
+      },
+      "objectScale": {
+        "x": 1.2853,
+        "y": 1.2853,
+        "z": 1.2853
+      }
+    },
+    {
+      "object_id": 17324.6914,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -120.578415,
+        "y": 42.5126266,
+        "z": -31.27642
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 16790.2734,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -121.8,
+        "y": 42.0002441,
+        "z": -13.8206959
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 61.69755,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 20152.0957,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -123.386612,
+        "y": 53.1517639,
+        "z": -45.8555222
+      },
+      "objectRotation": {
+        "x": 322.291016,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.2497,
+        "y": 1.2497,
+        "z": 1.2497
+      }
+    },
+    {
+      "object_id": 20338.1348,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.073074,
+        "y": 51.71,
+        "z": -35.51758
+      },
+      "objectRotation": {
+        "x": 5.259582,
+        "y": 351.245148,
+        "z": 315.853943
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21597.94,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -133.241577,
+        "y": 54.3006668,
+        "z": -29.9342346
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 61.93292,
+        "z": 3.0533326E-13
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 20285.7754,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -126.21,
+        "y": 52.02,
+        "z": -40.62918
+      },
+      "objectRotation": {
+        "x": 2.70771,
+        "y": 329.6972,
+        "z": 317.2688
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21833.81,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -129.92,
+        "y": 54.88,
+        "z": -44.07709
+      },
+      "objectRotation": {
+        "x": 1.38738221E-06,
+        "y": 332.57782,
+        "z": 352.566132
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 18175.42,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -106.446915,
+        "y": 50.7974854,
+        "z": -65.3
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 32108.5332,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 26.0175362,
+        "y": 43.1581421,
+        "z": -171.956375
+      },
+      "objectRotation": {
+        "x": 2.50447943E-06,
+        "y": 321.587982,
+        "z": -2.035555E-13
+      },
+      "objectScale": {
+        "x": 1.66,
+        "y": 1.66,
+        "z": 1.66
+      }
+    },
+    {
+      "object_id": 37123.7227,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 8.206326,
+        "y": 45.7818031,
+        "z": -186.97702
+      },
+      "objectRotation": {
+        "x": 2.41964744E-06,
+        "y": -6.46320245E-07,
+        "z": 345.044678
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 59042.7148,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -4.2458353,
+        "y": 52.86415,
+        "z": -237.1288
+      },
+      "objectRotation": {
+        "x": 2.50277549E-06,
+        "y": -9.236194E-08,
+        "z": 357.886536
+      },
+      "objectScale": {
+        "x": 1.7244,
+        "y": 1.7244,
+        "z": 1.7244
+      }
+    },
+    {
+      "object_id": 41042.95,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -3.22470284,
+        "y": 48.9831772,
+        "z": -196.5533
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.2822,
+        "y": 1.2822,
+        "z": 1.2822
+      }
+    },
+    {
+      "object_id": 72469.19,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -136.073166,
+        "y": 50.78477,
+        "z": -226.658752
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4322,
+        "y": 1.4322,
+        "z": 1.4322
+      }
+    },
+    {
+      "object_id": 71946.94,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -158.75,
+        "y": 46.99,
+        "z": -211.038666
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 21.0664616,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4454,
+        "y": 1.4454,
+        "z": 1.4454
+      }
+    },
+    {
+      "object_id": 66431.52,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -157.8646,
+        "y": 48.883316,
+        "z": -197.789581
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 2.2542,
+        "y": 2.2542,
+        "z": 2.2542
+      }
+    },
+    {
+      "object_id": 31931.9824,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -136.6817,
+        "y": 55.9736671,
+        "z": -100.583519
+      },
+      "objectRotation": {
+        "x": 348.101929,
+        "y": 341.979248,
+        "z": 3.837179
+      },
+      "objectScale": {
+        "x": 1.5969,
+        "y": 1.5969,
+        "z": 1.5969
+      }
+    },
+    {
+      "object_id": 45811.15,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -167.2,
+        "y": 45.803257,
+        "z": -125.528366
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.5514,
+        "y": 1.5514,
+        "z": 1.5514
+      }
+    },
+    {
+      "object_id": 53254.9141,
+      "assetName": "Tree_Type0_05(Clone)",
+      "objectPosition": {
+        "x": -184.423172,
+        "y": 51.6881256,
+        "z": -128.729736
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6815,
+        "y": 1.6815,
+        "z": 1.6815
+      }
+    },
+    {
+      "object_id": 30097.69,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.983658,
+        "y": 50.6856232,
+        "z": -104.364136
+      },
+      "objectRotation": {
+        "x": 338.7041,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 27445.3223,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -119.26,
+        "y": 52.1741257,
+        "z": -102.47065
+      },
+      "objectRotation": {
+        "x": 352.1222,
+        "y": 82.59855,
+        "z": 313.464233
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 66684.375,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -153.935669,
+        "y": 46.94,
+        "z": -201.95253
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 352.072754
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 85223.96,
+      "assetName": "TreeType603(Clone)",
+      "objectPosition": {
+        "x": -89.36348,
+        "y": 41.2047653,
+        "z": -274.845947
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 72709.59,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -166.95,
+        "y": 47.54,
+        "z": -206.342529
+      },
+      "objectRotation": {
+        "x": 356.824982,
+        "y": 283.312775,
+        "z": 359.249146
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 59454.32,
+      "assetName": "Building2(Clone)",
+      "objectPosition": {
+        "x": -83.96,
+        "y": 67.25,
+        "z": -218.820648
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 32.1680145
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 46597.082,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": -15.3,
+        "y": 55.1503677,
+        "z": -208.138
+      },
+      "objectRotation": {
+        "x": 355.3428,
+        "y": 289.7199,
+        "z": 358.332977
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 47191.82,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -165.659042,
+        "y": 43.18067,
+        "z": -133.732315
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 51241.76,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -160.157669,
+        "y": 44.1532249,
+        "z": -153.75882
+      },
+      "objectRotation": {
+        "x": 3.62805223,
+        "y": -5.3468014E-08,
+        "z": 330.6769
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 0.0,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectRotation": {
+        "x": 1.755113,
+        "y": 311.484344,
+        "z": 2.35917115
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 57208.2148,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -164.707123,
+        "y": 49.5417137,
+        "z": -166.2089
+      },
+      "objectRotation": {
+        "x": 2.486235E-06,
+        "y": -3.01742062E-07,
+        "z": 353.080139
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 53275.18,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -169.4505,
+        "y": 47.7675972,
+        "z": -149.26474
+      },
+      "objectRotation": {
+        "x": 346.0673,
+        "y": 275.803223,
+        "z": 358.598175
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 37676.375,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -147.399734,
+        "y": 47.8050537,
+        "z": -116.8947
+      },
+      "objectRotation": {
+        "x": 356.56073,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 26949.0059,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -124.123718,
+        "y": 54.30488,
+        "z": -92.7
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 31556.09,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -52.7644119,
+        "y": 55.39779,
+        "z": -160.321838
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 25615.1563,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.19149,
+        "y": 50.98751,
+        "z": -138.375031
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 17312.916,
+      "assetName": "Building3(Clone)",
+      "objectPosition": {
+        "x": -52.69576,
+        "y": 53.7,
+        "z": -107.946205
+      },
+      "objectRotation": {
+        "x": 8.778702,
+        "y": 319.149628,
+        "z": 358.035156
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 13850.8184,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": -82.30804,
+        "y": 50.6186638,
+        "z": -67.18598
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 2916.3335,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -10.4859905,
+        "y": 52.9616852,
+        "z": -1.19889545
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3616.873,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -23.3222866,
+        "y": 55.4239845,
+        "z": 1.06109333
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.72314924,
+        "y": 0.89172,
+        "z": 0.89172
+      }
+    },
+    {
+      "object_id": 2824.86035,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -14.974226,
+        "y": 50.28743,
+        "z": -8.473923
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.90424,
+        "y": 0.90424,
+        "z": 0.90424
+      }
+    },
+    {
+      "object_id": 3382.109,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -16.696806,
+        "y": 55.703186,
+        "z": -0.693182
+      },
+      "objectRotation": {
+        "x": 357.0294,
+        "y": 21.0678558,
+        "z": 358.856323
+      },
+      "objectScale": {
+        "x": 0.919122458,
+        "y": 1.5487,
+        "z": 0.8471699
+      }
+    },
+    {
+      "object_id": 3255.782,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -22.1193962,
+        "y": 52.1133461,
+        "z": -7.121334
+      },
+      "objectRotation": {
+        "x": 2.50448147E-06,
+        "y": 24.1683044,
+        "z": -1.01777751E-13
+      },
+      "objectScale": {
+        "x": 1.3644,
+        "y": 1.3644,
+        "z": 1.3644
+      }
+    },
+    {
+      "object_id": 3047.04321,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -26.2105827,
+        "y": 46.6183548,
+        "z": -13.6666565
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6143.58936,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -62.1672554,
+        "y": 47.4009,
+        "z": -5.654746
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.71279,
+        "y": 0.71279,
+        "z": 0.71279
+      }
+    },
+    {
+      "object_id": 4982.38037,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -53.5217,
+        "y": 45.0466,
+        "z": -9.413385
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 3355.389,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -29.8269081,
+        "y": 48.8719673,
+        "z": -8.790638
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.02,
+        "y": 1.02,
+        "z": 1.02
+      }
+    },
+    {
+      "object_id": 5233.9043,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -53.96813,
+        "y": 48.07913,
+        "z": -3.12133312
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.1093,
+        "y": 1.1093,
+        "z": 1.1093
+      }
+    },
+    {
+      "object_id": 3741.14453,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -35.19888,
+        "y": 50.008503,
+        "z": -1.15461922
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6540513,
+        "y": 1.2847,
+        "z": 1.2847
+      }
+    },
+    {
+      "object_id": 3711.19849,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -38.2327652,
+        "y": 46.7428169,
+        "z": -8.035126
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.3856,
+        "y": 1.3856,
+        "z": 1.94593656
+      }
+    },
+    {
+      "object_id": 5492.96,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -55.7758865,
+        "y": 48.80584,
+        "z": 0.0259690285
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4607,
+        "y": 1.4607,
+        "z": 1.4607
+      }
+    },
+    {
+      "object_id": 4031.79175,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -41.9919853,
+        "y": 47.4687,
+        "z": -3.89709
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4756.37451,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -49.8019447,
+        "y": 47.608696,
+        "z": -3.09077072
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 4257.38037,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -44.2071533,
+        "y": 47.98216,
+        "z": 0.90582037
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.86762846,
+        "y": 1.4516,
+        "z": 1.4516
+      }
+    },
+    {
+      "object_id": 6922.55029,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -66.60993,
+        "y": 49.80727,
+        "z": 2.21424532
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 6360.72852,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -64.57295,
+        "y": 46.11382,
+        "z": -8.036037
+      },
+      "objectRotation": {
+        "x": 356.8216,
+        "y": 353.2199,
+        "z": 0.37768355
+      },
+      "objectScale": {
+        "x": 0.93,
+        "y": 0.93,
+        "z": 0.93
+      }
+    },
+    {
+      "object_id": 5985.72168,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.41191,
+        "y": 44.4015732,
+        "z": -10.9075871
+      },
+      "objectRotation": {
+        "x": 355.227478,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.54833877,
+        "y": 1.2361,
+        "z": 1.2361
+      }
+    },
+    {
+      "object_id": 7650.413,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -75.43,
+        "y": 44.28,
+        "z": 0.1
+      },
+      "objectRotation": {
+        "x": 354.123962,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 15811.9082,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -117.9551,
+        "y": 40.01,
+        "z": -17.2540627
+      },
+      "objectRotation": {
+        "x": 351.208344,
+        "y": 15.2513771,
+        "z": 331.238556
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 14289.3857,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -111.182121,
+        "y": 43.88462,
+        "z": -1.435936
+      },
+      "objectRotation": {
+        "x": 356.5196,
+        "y": 61.5545,
+        "z": 356.068939
+      },
+      "objectScale": {
+        "x": 1.2853,
+        "y": 1.2853,
+        "z": 1.2853
+      }
+    },
+    {
+      "object_id": 17324.6914,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -120.578415,
+        "y": 42.5126266,
+        "z": -31.27642
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 16790.2734,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -121.8,
+        "y": 42.0002441,
+        "z": -13.8206959
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 61.69755,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 20152.0957,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -123.386612,
+        "y": 53.1517639,
+        "z": -45.8555222
+      },
+      "objectRotation": {
+        "x": 322.291016,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.2497,
+        "y": 1.2497,
+        "z": 1.2497
+      }
+    },
+    {
+      "object_id": 20338.1348,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.073074,
+        "y": 51.71,
+        "z": -35.51758
+      },
+      "objectRotation": {
+        "x": 5.259582,
+        "y": 351.245148,
+        "z": 315.853943
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21597.94,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -133.241577,
+        "y": 54.3006668,
+        "z": -29.9342346
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 61.93292,
+        "z": 3.0533326E-13
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 20285.7754,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -126.21,
+        "y": 52.02,
+        "z": -40.62918
+      },
+      "objectRotation": {
+        "x": 2.70771,
+        "y": 329.6972,
+        "z": 317.2688
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 21833.81,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -129.92,
+        "y": 54.88,
+        "z": -44.07709
+      },
+      "objectRotation": {
+        "x": 1.38738221E-06,
+        "y": 332.57782,
+        "z": 352.566132
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 18175.42,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -106.446915,
+        "y": 50.7974854,
+        "z": -65.3
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 32108.5332,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 26.0175362,
+        "y": 43.1581421,
+        "z": -171.956375
+      },
+      "objectRotation": {
+        "x": 2.50447943E-06,
+        "y": 321.587982,
+        "z": -2.035555E-13
+      },
+      "objectScale": {
+        "x": 1.66,
+        "y": 1.66,
+        "z": 1.66
+      }
+    },
+    {
+      "object_id": 37123.7227,
+      "assetName": "TreeType006(Clone)",
+      "objectPosition": {
+        "x": 8.206326,
+        "y": 45.7818031,
+        "z": -186.97702
+      },
+      "objectRotation": {
+        "x": 2.41964744E-06,
+        "y": -6.46320245E-07,
+        "z": 345.044678
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 59042.7148,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -4.2458353,
+        "y": 52.86415,
+        "z": -237.1288
+      },
+      "objectRotation": {
+        "x": 2.50277549E-06,
+        "y": -9.236194E-08,
+        "z": 357.886536
+      },
+      "objectScale": {
+        "x": 1.7244,
+        "y": 1.7244,
+        "z": 1.7244
+      }
+    },
+    {
+      "object_id": 41042.95,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -3.22470284,
+        "y": 48.9831772,
+        "z": -196.5533
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.2822,
+        "y": 1.2822,
+        "z": 1.2822
+      }
+    },
+    {
+      "object_id": 72469.19,
+      "assetName": "TreeType002(Clone)",
+      "objectPosition": {
+        "x": -136.073166,
+        "y": 50.78477,
+        "z": -226.658752
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4322,
+        "y": 1.4322,
+        "z": 1.4322
+      }
+    },
+    {
+      "object_id": 71946.94,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -158.75,
+        "y": 46.99,
+        "z": -211.038666
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 21.0664616,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.4454,
+        "y": 1.4454,
+        "z": 1.4454
+      }
+    },
+    {
+      "object_id": 66431.52,
+      "assetName": "Rock1(Clone)",
+      "objectPosition": {
+        "x": -157.8646,
+        "y": 48.883316,
+        "z": -197.789581
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 2.2542,
+        "y": 2.2542,
+        "z": 2.2542
+      }
+    },
+    {
+      "object_id": 31931.9824,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -136.6817,
+        "y": 55.9736671,
+        "z": -100.583519
+      },
+      "objectRotation": {
+        "x": 348.101929,
+        "y": 341.979248,
+        "z": 3.837179
+      },
+      "objectScale": {
+        "x": 1.5969,
+        "y": 1.5969,
+        "z": 1.5969
+      }
+    },
+    {
+      "object_id": 45811.15,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -167.2,
+        "y": 45.803257,
+        "z": -125.528366
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.5514,
+        "y": 1.5514,
+        "z": 1.5514
+      }
+    },
+    {
+      "object_id": 53254.9141,
+      "assetName": "Tree_Type0_05(Clone)",
+      "objectPosition": {
+        "x": -184.423172,
+        "y": 51.6881256,
+        "z": -128.729736
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.6815,
+        "y": 1.6815,
+        "z": 1.6815
+      }
+    },
+    {
+      "object_id": 30097.69,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -128.983658,
+        "y": 50.6856232,
+        "z": -104.364136
+      },
+      "objectRotation": {
+        "x": 338.7041,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 27445.3223,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -119.26,
+        "y": 52.1741257,
+        "z": -102.47065
+      },
+      "objectRotation": {
+        "x": 352.1222,
+        "y": 82.59855,
+        "z": 313.464233
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 66684.375,
+      "assetName": "wooden_path(Clone)",
+      "objectPosition": {
+        "x": -153.935669,
+        "y": 46.94,
+        "z": -201.95253
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 352.072754
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 85223.96,
+      "assetName": "TreeType603(Clone)",
+      "objectPosition": {
+        "x": -89.36348,
+        "y": 41.2047653,
+        "z": -274.845947
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 72709.59,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -166.95,
+        "y": 47.54,
+        "z": -206.342529
+      },
+      "objectRotation": {
+        "x": 356.824982,
+        "y": 283.312775,
+        "z": 359.249146
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 59454.32,
+      "assetName": "Building2(Clone)",
+      "objectPosition": {
+        "x": -83.96,
+        "y": 67.25,
+        "z": -218.820648
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 32.1680145
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 46597.082,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": -15.3,
+        "y": 55.1503677,
+        "z": -208.138
+      },
+      "objectRotation": {
+        "x": 355.3428,
+        "y": 289.7199,
+        "z": 358.332977
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 47191.82,
+      "assetName": "TreeType003(Clone)",
+      "objectPosition": {
+        "x": -165.659042,
+        "y": 43.18067,
+        "z": -133.732315
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 51241.76,
+      "assetName": "multiple_rocks(Clone)",
+      "objectPosition": {
+        "x": -160.157669,
+        "y": 44.1532249,
+        "z": -153.75882
+      },
+      "objectRotation": {
+        "x": 3.62805223,
+        "y": -5.3468014E-08,
+        "z": 330.6769
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 0.0,
+      "assetName": "Building5(Clone)",
+      "objectPosition": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectRotation": {
+        "x": 1.755113,
+        "y": 311.484344,
+        "z": 2.35917115
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 57208.2148,
+      "assetName": "TreeType604(Clone)",
+      "objectPosition": {
+        "x": -164.707123,
+        "y": 49.5417137,
+        "z": -166.2089
+      },
+      "objectRotation": {
+        "x": 2.486235E-06,
+        "y": -3.01742062E-07,
+        "z": 353.080139
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 53275.18,
+      "assetName": "Building4(Clone)",
+      "objectPosition": {
+        "x": -169.4505,
+        "y": 47.7675972,
+        "z": -149.26474
+      },
+      "objectRotation": {
+        "x": 346.0673,
+        "y": 275.803223,
+        "z": 358.598175
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 37676.375,
+      "assetName": "TreeType0051(Clone)",
+      "objectPosition": {
+        "x": -147.399734,
+        "y": 47.8050537,
+        "z": -116.8947
+      },
+      "objectRotation": {
+        "x": 356.56073,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 26949.0059,
+      "assetName": "Medieval_House(Clone)",
+      "objectPosition": {
+        "x": -124.123718,
+        "y": 54.30488,
+        "z": -92.7
+      },
+      "objectRotation": {
+        "x": 0.0,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 0.0576018766,
+        "y": 0.0576018766,
+        "z": 0.0576018766
+      }
+    },
+    {
+      "object_id": 31556.09,
+      "assetName": "TreeType404(Clone)",
+      "objectPosition": {
+        "x": -52.7644119,
+        "y": 55.39779,
+        "z": -160.321838
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
+      },
+      "objectScale": {
+        "x": 1.0,
+        "y": 1.0,
+        "z": 1.0
+      }
+    },
+    {
+      "object_id": 25615.1563,
+      "assetName": "TreeType203(Clone)",
+      "objectPosition": {
+        "x": -62.19149,
+        "y": 50.98751,
+        "z": -138.375031
+      },
+      "objectRotation": {
+        "x": 2.50447874E-06,
+        "y": 0.0,
+        "z": 0.0
       },
       "objectScale": {
         "x": 1.0,

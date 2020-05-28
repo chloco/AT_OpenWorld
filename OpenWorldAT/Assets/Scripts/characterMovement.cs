@@ -25,11 +25,11 @@ public class characterMovement : MonoBehaviour
     public float accel = 15;
     public float jumpVel = 15;
     float turnSpeed;
-    float turnSpeedLow = 7;
-    float turnSpeedHigh = 20;
+    float turnSpeedLow = 3;
+    float turnSpeedHigh = 6;
 
     //GRAVITY
-    float grav = 30;
+    float grav = 200;
     bool grounded = false;
 
     // Use this for initialization
@@ -45,7 +45,7 @@ public class characterMovement : MonoBehaviour
         CalculateGround();
         DoMove();
         DoGravity();
-        //DoJump();
+        DoJump();
 
         controller.Move(velocity * Time.deltaTime);
 
@@ -56,6 +56,13 @@ public class characterMovement : MonoBehaviour
         input = Vector2.ClampMagnitude(input, 1);
     }
 
+    void OnTriggerEnter(Collider other)
+    {
+        if (other.gameObject.tag == "destroy")
+        {
+            Destroy(other.gameObject);
+        }
+    }
     void CalculateCamera()
     {
         camF = cam.forward;
@@ -70,14 +77,18 @@ public class characterMovement : MonoBehaviour
     void CalculateGround()
     {
         RaycastHit hit;
-        if (Physics.Raycast(player.transform.position + Vector3.up * 0.1f, -Vector3.up, out hit, 0.2f))
+        Debug.DrawRay(player.transform.position, -Vector3.up * 0.4f, Color.green);
+        //if (Physics.Raycast(player.transform.position + Vector3.up * 5f, -Vector3.up, out hit, 0.4f))
+        //{
+        if (Physics.Raycast(player.transform.position, Vector3.down, out hit, 0.5f))
         {
+
             grounded = true;
 
-            //if (anim.GetBool("Jump") == true)
-            //{
-            //    anim.SetBool("Jump", false);
-            //}
+            if (anim.GetBool("Jump") == true)
+            {
+                anim.SetBool("Jump", false);
+            }
         }
         else
         {
@@ -133,7 +144,7 @@ public class characterMovement : MonoBehaviour
             if (Input.GetButtonDown("Jump"))
             {
                 velocity.y = jumpVel;
-                //anim.SetBool("Jump", true);
+                anim.SetBool("Jump", true);
             }
         }
     }

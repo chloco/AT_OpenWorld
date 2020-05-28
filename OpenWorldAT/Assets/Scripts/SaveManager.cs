@@ -6,6 +6,7 @@ using System.Runtime.Serialization.Formatters.Binary;
 using UnityEngine.UI;
 using Newtonsoft.Json;
 using System.Text.RegularExpressions;
+using UnityEngine.SceneManagement;
 
 public class SaveManager : MonoBehaviour
 {
@@ -13,18 +14,31 @@ public class SaveManager : MonoBehaviour
     private Geometry the_cube;
     private LoadAssetBundles loadAsset;
     public static ClassCollector CC = new ClassCollector();
+    Scene scene;
+    bool loaded = false;
+    public static bool leaveGame = true;
 
     void Start()
     {
-        
+        scene = SceneManager.GetActiveScene();
         loadAsset = GameObject.FindGameObjectWithTag("Karen").GetComponent<LoadAssetBundles>();
-       
+        leaveGame = false;
     }
+    void OnApplicationQuit()
+    {
 
+        SaveButton();
+        Debug.Log("end");
+    }
     // Update is called once per frame
     void Update()
     {
-        if (Input.GetKeyDown(KeyCode.S))
+        //if(leaveGame)
+        //{
+        //    SaveButton();
+        //    Application.Quit();
+        //}
+        if (Input.GetKeyDown(KeyCode.O))
         {
             Debug.Log("Key Pressed");
             SaveButton();
@@ -36,6 +50,11 @@ public class SaveManager : MonoBehaviour
             LoadButton();
         }
 
+        if(scene.name == "Map" && !loaded)
+        {
+            loaded = true;
+            LoadButton();
+        }
     }
 
     private Save createSaveObject()
@@ -68,7 +87,6 @@ public class SaveManager : MonoBehaviour
     public void SaveJSON()
     {
 
-   
       
         var geometry = FindObjectsOfType(typeof(Geometry));
         Debug.Log(geometry + " : " + geometry.Length);
